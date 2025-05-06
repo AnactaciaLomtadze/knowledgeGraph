@@ -1,0 +1,1683 @@
+movie_id,title,dbpedia_uri,wikidata_id
+1,Toy Story (1995),http://dbpedia.org/resource/Toy_Story,Q3966421
+2,GoldenEye (1995),http://dbpedia.org/resource/GoldenEye,Q1758116
+3,Four Rooms (1995),http://dbpedia.org/resource/Four_Rooms,Q5161833
+4,Get Shorty (1995),http://dbpedia.org/resource/Get_Shorty,Q7617814
+5,Copycat (1995),http://dbpedia.org/resource/Copycat,Q5466210
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),http://dbpedia.org/resource/Shanghai_Triad,Q4949504
+7,Twelve Monkeys (1995),http://dbpedia.org/resource/Twelve_Monkeys,Q2948359
+8,Babe (1995),http://dbpedia.org/resource/Babe,Q7126575
+9,Dead Man Walking (1995),http://dbpedia.org/resource/Dead_Man_Walking,Q3683043
+10,Richard III (1995),http://dbpedia.org/resource/Richard_III,Q7251498
+11,Seven (Se7en) (1995),http://dbpedia.org/resource/Seven,Q9125487
+12,"Usual Suspects, The (1995)","http://dbpedia.org/resource/Usual_Suspects,_The",Q425457
+13,Mighty Aphrodite (1995),http://dbpedia.org/resource/Mighty_Aphrodite,Q9840013
+14,"Postino, Il (1994)","http://dbpedia.org/resource/Postino,_Il",Q929187
+15,Mr. Holland's Opus (1995),http://dbpedia.org/resource/Mr._Holland's_Opus,Q9879406
+16,French Twist (Gazon maudit) (1995),http://dbpedia.org/resource/French_Twist,Q8678226
+17,From Dusk Till Dawn (1996),http://dbpedia.org/resource/From_Dusk_Till_Dawn,Q9070094
+18,"White Balloon, The (1995)","http://dbpedia.org/resource/White_Balloon,_The",Q7428935
+19,Antonia's Line (1995),http://dbpedia.org/resource/Antonia's_Line,Q9001992
+20,Angels and Insects (1995),http://dbpedia.org/resource/Angels_and_Insects,Q6776138
+21,Muppet Treasure Island (1996),http://dbpedia.org/resource/Muppet_Treasure_Island,Q909289
+22,Braveheart (1995),http://dbpedia.org/resource/Braveheart,Q7772535
+23,Taxi Driver (1976),http://dbpedia.org/resource/Taxi_Driver,Q4779175
+24,Rumble in the Bronx (1995),http://dbpedia.org/resource/Rumble_in_the_Bronx,Q2722222
+25,"Birdcage, The (1996)","http://dbpedia.org/resource/Birdcage,_The",Q1652752
+26,"Brothers McMullen, The (1995)","http://dbpedia.org/resource/Brothers_McMullen,_The",Q3836774
+27,Bad Boys (1995),http://dbpedia.org/resource/Bad_Boys,Q3795729
+28,Apollo 13 (1995),http://dbpedia.org/resource/Apollo_13,Q8024197
+29,Batman Forever (1995),http://dbpedia.org/resource/Batman_Forever,Q9864629
+30,Belle de jour (1967),http://dbpedia.org/resource/Belle_de_jour,Q5249077
+31,Crimson Tide (1995),http://dbpedia.org/resource/Crimson_Tide,Q2693944
+32,Crumb (1994),http://dbpedia.org/resource/Crumb,Q367287
+33,Desperado (1995),http://dbpedia.org/resource/Desperado,Q9312402
+34,"Doom Generation, The (1995)","http://dbpedia.org/resource/Doom_Generation,_The",Q705567
+35,Free Willy 2: The Adventure Home (1995),http://dbpedia.org/resource/Free_Willy_2:_The_Adventure_Home,Q8663793
+36,Mad Love (1995),http://dbpedia.org/resource/Mad_Love,Q6725271
+37,Nadja (1994),http://dbpedia.org/resource/Nadja,Q6244076
+38,"Net, The (1995)","http://dbpedia.org/resource/Net,_The",Q7183654
+39,Strange Days (1995),http://dbpedia.org/resource/Strange_Days,Q1318470
+40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)","http://dbpedia.org/resource/To_Wong_Foo,_Thanks_for_Everything!_Julie_Newmar",Q5779540
+41,Billy Madison (1995),http://dbpedia.org/resource/Billy_Madison,Q9014984
+42,Clerks (1994),http://dbpedia.org/resource/Clerks,Q3140613
+43,Disclosure (1994),http://dbpedia.org/resource/Disclosure,Q8073301
+44,Dolores Claiborne (1994),http://dbpedia.org/resource/Dolores_Claiborne,Q5778802
+45,Eat Drink Man Woman (1994),http://dbpedia.org/resource/Eat_Drink_Man_Woman,Q8274861
+46,Exotica (1994),http://dbpedia.org/resource/Exotica,Q7645605
+47,Ed Wood (1994),http://dbpedia.org/resource/Ed_Wood,Q5336061
+48,Hoop Dreams (1994),http://dbpedia.org/resource/Hoop_Dreams,Q794263
+49,I.Q. (1994),http://dbpedia.org/resource/I.Q.,Q48536
+50,Star Wars (1977),http://dbpedia.org/resource/Star_Wars,Q9331475
+51,Legends of the Fall (1994),http://dbpedia.org/resource/Legends_of_the_Fall,Q9779448
+52,"Madness of King George, The (1994)","http://dbpedia.org/resource/Madness_of_King_George,_The",Q6521807
+53,Natural Born Killers (1994),http://dbpedia.org/resource/Natural_Born_Killers,Q2286560
+54,Outbreak (1995),http://dbpedia.org/resource/Outbreak,Q1299075
+55,"Professional, The (1994)","http://dbpedia.org/resource/Professional,_The",Q9972923
+56,Pulp Fiction (1994),http://dbpedia.org/resource/Pulp_Fiction,Q12479
+57,Priest (1994),http://dbpedia.org/resource/Priest,Q6548800
+58,Quiz Show (1994),http://dbpedia.org/resource/Quiz_Show,Q9323335
+59,Three Colors: Red (1994),http://dbpedia.org/resource/Three_Colors:_Red,Q8954743
+60,Three Colors: Blue (1993),http://dbpedia.org/resource/Three_Colors:_Blue,Q635283
+61,Three Colors: White (1994),http://dbpedia.org/resource/Three_Colors:_White,Q9924753
+62,Stargate (1994),http://dbpedia.org/resource/Stargate,Q7436114
+63,"Santa Clause, The (1994)","http://dbpedia.org/resource/Santa_Clause,_The",Q5585452
+64,"Shawshank Redemption, The (1994)","http://dbpedia.org/resource/Shawshank_Redemption,_The",Q3714808
+65,What's Eating Gilbert Grape (1993),http://dbpedia.org/resource/What's_Eating_Gilbert_Grape,Q1252939
+66,While You Were Sleeping (1995),http://dbpedia.org/resource/While_You_Were_Sleeping,Q1515602
+67,Ace Ventura: Pet Detective (1994),http://dbpedia.org/resource/Ace_Ventura:_Pet_Detective,Q9272330
+68,"Crow, The (1994)","http://dbpedia.org/resource/Crow,_The",Q2688405
+69,Forrest Gump (1994),http://dbpedia.org/resource/Forrest_Gump,Q6921244
+70,Four Weddings and a Funeral (1994),http://dbpedia.org/resource/Four_Weddings_and_a_Funeral,Q6080591
+71,"Lion King, The (1994)","http://dbpedia.org/resource/Lion_King,_The",Q4202930
+72,"Mask, The (1994)","http://dbpedia.org/resource/Mask,_The",Q755601
+73,Maverick (1994),http://dbpedia.org/resource/Maverick,Q9775427
+74,Faster Pussycat! Kill! Kill! (1965),http://dbpedia.org/resource/Faster_Pussycat!_Kill!_Kill!,Q7187525
+75,Brother Minister: The Assassination of Malcolm X (1994),http://dbpedia.org/resource/Brother_Minister:_The_Assassination_of_Malcolm_X,Q4668654
+76,Carlito's Way (1993),http://dbpedia.org/resource/Carlito's_Way,Q1088123
+77,"Firm, The (1993)","http://dbpedia.org/resource/Firm,_The",Q7907131
+78,Free Willy (1993),http://dbpedia.org/resource/Free_Willy,Q1650929
+79,"Fugitive, The (1993)","http://dbpedia.org/resource/Fugitive,_The",Q6727105
+80,Hot Shots! Part Deux (1993),http://dbpedia.org/resource/Hot_Shots!_Part_Deux,Q2864185
+81,"Hudsucker Proxy, The (1994)","http://dbpedia.org/resource/Hudsucker_Proxy,_The",Q9116290
+82,Jurassic Park (1993),http://dbpedia.org/resource/Jurassic_Park,Q1814224
+83,Much Ado About Nothing (1993),http://dbpedia.org/resource/Much_Ado_About_Nothing,Q3362593
+84,Robert A. Heinlein's The Puppet Masters (1994),http://dbpedia.org/resource/Robert_A._Heinlein's_The_Puppet_Masters,Q7605735
+85,"Ref, The (1994)","http://dbpedia.org/resource/Ref,_The",Q5323461
+86,"Remains of the Day, The (1993)","http://dbpedia.org/resource/Remains_of_the_Day,_The",Q8743290
+87,Searching for Bobby Fischer (1993),http://dbpedia.org/resource/Searching_for_Bobby_Fischer,Q8288194
+88,Sleepless in Seattle (1993),http://dbpedia.org/resource/Sleepless_in_Seattle,Q6515750
+89,Blade Runner (1982),http://dbpedia.org/resource/Blade_Runner,Q7404787
+90,So I Married an Axe Murderer (1993),http://dbpedia.org/resource/So_I_Married_an_Axe_Murderer,Q7466867
+91,"Nightmare Before Christmas, The (1993)","http://dbpedia.org/resource/Nightmare_Before_Christmas,_The",Q420504
+92,True Romance (1993),http://dbpedia.org/resource/True_Romance,Q4113878
+93,Welcome to the Dollhouse (1995),http://dbpedia.org/resource/Welcome_to_the_Dollhouse,Q7266509
+94,Home Alone (1990),http://dbpedia.org/resource/Home_Alone,Q7160202
+95,Aladdin (1992),http://dbpedia.org/resource/Aladdin,Q7830292
+96,Terminator 2: Judgment Day (1991),http://dbpedia.org/resource/Terminator_2:_Judgment_Day,Q9686166
+97,Dances with Wolves (1990),http://dbpedia.org/resource/Dances_with_Wolves,Q2740994
+98,"Silence of the Lambs, The (1991)","http://dbpedia.org/resource/Silence_of_the_Lambs,_The",Q9602055
+99,Snow White and the Seven Dwarfs (1937),http://dbpedia.org/resource/Snow_White_and_the_Seven_Dwarfs,Q7718245
+100,Fargo (1996),http://dbpedia.org/resource/Fargo,Q4457502
+101,Heavy Metal (1981),http://dbpedia.org/resource/Heavy_Metal,Q691527
+102,"Aristocats, The (1970)","http://dbpedia.org/resource/Aristocats,_The",Q7070269
+103,All Dogs Go to Heaven 2 (1996),http://dbpedia.org/resource/All_Dogs_Go_to_Heaven_2,Q3930791
+104,Theodore Rex (1995),http://dbpedia.org/resource/Theodore_Rex,Q7665305
+105,Sgt. Bilko (1996),http://dbpedia.org/resource/Sgt._Bilko,Q9731517
+106,Diabolique (1996),http://dbpedia.org/resource/Diabolique,Q9706006
+107,Moll Flanders (1996),http://dbpedia.org/resource/Moll_Flanders,Q7494668
+108,Kids in the Hall: Brain Candy (1996),http://dbpedia.org/resource/Kids_in_the_Hall:_Brain_Candy,Q6737271
+109,Mystery Science Theater 3000: The Movie (1996),http://dbpedia.org/resource/Mystery_Science_Theater_3000:_The_Movie,Q3692365
+110,Operation Dumbo Drop (1995),http://dbpedia.org/resource/Operation_Dumbo_Drop,Q4427611
+111,"Truth About Cats & Dogs, The (1996)","http://dbpedia.org/resource/Truth_About_Cats_&_Dogs,_The",Q8225198
+112,Flipper (1996),http://dbpedia.org/resource/Flipper,Q8753247
+113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)","http://dbpedia.org/resource/Horseman_on_the_Roof,_The",Q1190221
+114,Wallace & Gromit: The Best of Aardman Animation (1996),http://dbpedia.org/resource/Wallace_&_Gromit:_The_Best_of_Aardman_Animation,Q8519369
+115,"Haunted World of Edward D. Wood Jr., The (1995)","http://dbpedia.org/resource/Haunted_World_of_Edward_D._Wood_Jr.,_The",Q1136886
+116,Cold Comfort Farm (1995),http://dbpedia.org/resource/Cold_Comfort_Farm,Q3493095
+117,"Rock, The (1996)","http://dbpedia.org/resource/Rock,_The",Q4429156
+118,Twister (1996),http://dbpedia.org/resource/Twister,Q7727915
+119,Maya Lin: A Strong Clear Vision (1994),http://dbpedia.org/resource/Maya_Lin:_A_Strong_Clear_Vision,Q92200
+120,Striptease (1996),http://dbpedia.org/resource/Striptease,Q8694248
+121,Independence Day (ID4) (1996),http://dbpedia.org/resource/Independence_Day,Q1223639
+122,"Cable Guy, The (1996)","http://dbpedia.org/resource/Cable_Guy,_The",Q6259984
+123,"Frighteners, The (1996)","http://dbpedia.org/resource/Frighteners,_The",Q6807422
+124,Lone Star (1996),http://dbpedia.org/resource/Lone_Star,Q393368
+125,Phenomenon (1996),http://dbpedia.org/resource/Phenomenon,Q8870723
+126,"Spitfire Grill, The (1996)","http://dbpedia.org/resource/Spitfire_Grill,_The",Q9302204
+127,"Godfather, The (1972)","http://dbpedia.org/resource/Godfather,_The",Q4489746
+128,Supercop (1992),http://dbpedia.org/resource/Supercop,Q3222789
+129,Bound (1996),http://dbpedia.org/resource/Bound,Q9196778
+130,Kansas City (1996),http://dbpedia.org/resource/Kansas_City,Q8661231
+131,Breakfast at Tiffany's (1961),http://dbpedia.org/resource/Breakfast_at_Tiffany's,Q1694226
+132,"Wizard of Oz, The (1939)","http://dbpedia.org/resource/Wizard_of_Oz,_The",Q3174598
+133,Gone with the Wind (1939),http://dbpedia.org/resource/Gone_with_the_Wind,Q9690219
+134,Citizen Kane (1941),http://dbpedia.org/resource/Citizen_Kane,Q8677031
+135,2001: A Space Odyssey (1968),http://dbpedia.org/resource/2001:_A_Space_Odyssey,Q639709
+136,Mr. Smith Goes to Washington (1939),http://dbpedia.org/resource/Mr._Smith_Goes_to_Washington,Q1187121
+137,Big Night (1996),http://dbpedia.org/resource/Big_Night,Q4178240
+138,D3: The Mighty Ducks (1996),http://dbpedia.org/resource/D3:_The_Mighty_Ducks,Q4497256
+139,"Love Bug, The (1969)","http://dbpedia.org/resource/Love_Bug,_The",Q3124566
+140,Homeward Bound: The Incredible Journey (1993),http://dbpedia.org/resource/Homeward_Bound:_The_Incredible_Journey,Q9821732
+141,"20,000 Leagues Under the Sea (1954)","http://dbpedia.org/resource/20,000_Leagues_Under_the_Sea",Q8827747
+142,Bedknobs and Broomsticks (1971),http://dbpedia.org/resource/Bedknobs_and_Broomsticks,Q190163
+143,"Sound of Music, The (1965)","http://dbpedia.org/resource/Sound_of_Music,_The",Q3667601
+144,Die Hard (1988),http://dbpedia.org/resource/Die_Hard,Q9360208
+145,"Lawnmower Man, The (1992)","http://dbpedia.org/resource/Lawnmower_Man,_The",Q6182539
+146,Unhook the Stars (1996),http://dbpedia.org/resource/Unhook_the_Stars,Q2451804
+147,"Long Kiss Goodnight, The (1996)","http://dbpedia.org/resource/Long_Kiss_Goodnight,_The",Q6932653
+148,"Ghost and the Darkness, The (1996)","http://dbpedia.org/resource/Ghost_and_the_Darkness,_The",Q6428062
+149,Jude (1996),http://dbpedia.org/resource/Jude,Q8337896
+150,Swingers (1996),http://dbpedia.org/resource/Swingers,Q5959307
+151,Willy Wonka and the Chocolate Factory (1971),http://dbpedia.org/resource/Willy_Wonka_and_the_Chocolate_Factory,Q7680980
+152,Sleeper (1973),http://dbpedia.org/resource/Sleeper,Q6885449
+153,"Fish Called Wanda, A (1988)","http://dbpedia.org/resource/Fish_Called_Wanda,_A",Q9818974
+154,Monty Python's Life of Brian (1979),http://dbpedia.org/resource/Monty_Python's_Life_of_Brian,Q7241139
+155,Dirty Dancing (1987),http://dbpedia.org/resource/Dirty_Dancing,Q7214970
+156,Reservoir Dogs (1992),http://dbpedia.org/resource/Reservoir_Dogs,Q6444726
+157,Platoon (1986),http://dbpedia.org/resource/Platoon,Q5781091
+158,Weekend at Bernie's (1989),http://dbpedia.org/resource/Weekend_at_Bernie's,Q8033622
+159,Basic Instinct (1992),http://dbpedia.org/resource/Basic_Instinct,Q2658225
+160,Glengarry Glen Ross (1992),http://dbpedia.org/resource/Glengarry_Glen_Ross,Q8871588
+161,Top Gun (1986),http://dbpedia.org/resource/Top_Gun,Q4849403
+162,On Golden Pond (1981),http://dbpedia.org/resource/On_Golden_Pond,Q4343609
+163,"Return of the Pink Panther, The (1974)","http://dbpedia.org/resource/Return_of_the_Pink_Panther,_The",Q6152935
+164,"Abyss, The (1989)","http://dbpedia.org/resource/Abyss,_The",Q1971282
+165,Jean de Florette (1986),http://dbpedia.org/resource/Jean_de_Florette,Q6482
+166,Manon of the Spring (Manon des sources) (1986),http://dbpedia.org/resource/Manon_of_the_Spring,Q838250
+167,Private Benjamin (1980),http://dbpedia.org/resource/Private_Benjamin,Q9141472
+168,Monty Python and the Holy Grail (1974),http://dbpedia.org/resource/Monty_Python_and_the_Holy_Grail,Q7730330
+169,"Wrong Trousers, The (1993)","http://dbpedia.org/resource/Wrong_Trousers,_The",Q2245897
+170,Cinema Paradiso (1988),http://dbpedia.org/resource/Cinema_Paradiso,Q3469035
+171,Delicatessen (1991),http://dbpedia.org/resource/Delicatessen,Q1805233
+172,"Empire Strikes Back, The (1980)","http://dbpedia.org/resource/Empire_Strikes_Back,_The",Q7616087
+173,"Princess Bride, The (1987)","http://dbpedia.org/resource/Princess_Bride,_The",Q6105969
+174,Raiders of the Lost Ark (1981),http://dbpedia.org/resource/Raiders_of_the_Lost_Ark,Q2019423
+175,Brazil (1985),http://dbpedia.org/resource/Brazil,Q1315120
+176,Aliens (1986),http://dbpedia.org/resource/Aliens,Q7265661
+177,"Good, The Bad and The Ugly, The (1966)","http://dbpedia.org/resource/Good,_The_Bad_and_The_Ugly,_The",Q8199137
+178,12 Angry Men (1957),http://dbpedia.org/resource/12_Angry_Men,Q7720982
+179,"Clockwork Orange, A (1971)","http://dbpedia.org/resource/Clockwork_Orange,_A",Q3047900
+180,Apocalypse Now (1979),http://dbpedia.org/resource/Apocalypse_Now,Q3879070
+181,Return of the Jedi (1983),http://dbpedia.org/resource/Return_of_the_Jedi,Q1964566
+182,GoodFellas (1990),http://dbpedia.org/resource/GoodFellas,Q5684716
+183,Alien (1979),http://dbpedia.org/resource/Alien,Q4149958
+184,Army of Darkness (1993),http://dbpedia.org/resource/Army_of_Darkness,Q1084177
+185,Psycho (1960),http://dbpedia.org/resource/Psycho,Q3206348
+186,"Blues Brothers, The (1980)","http://dbpedia.org/resource/Blues_Brothers,_The",Q7135287
+187,"Godfather: Part II, The (1974)","http://dbpedia.org/resource/Godfather:_Part_II,_The",Q2692417
+188,Full Metal Jacket (1987),http://dbpedia.org/resource/Full_Metal_Jacket,Q5698043
+189,"Grand Day Out, A (1992)","http://dbpedia.org/resource/Grand_Day_Out,_A",Q8601085
+190,Henry V (1989),http://dbpedia.org/resource/Henry_V,Q4571264
+191,Amadeus (1984),http://dbpedia.org/resource/Amadeus,Q4775993
+192,Raging Bull (1980),http://dbpedia.org/resource/Raging_Bull,Q3732831
+193,"Right Stuff, The (1983)","http://dbpedia.org/resource/Right_Stuff,_The",Q2550497
+194,"Sting, The (1973)","http://dbpedia.org/resource/Sting,_The",Q4771480
+195,"Terminator, The (1984)","http://dbpedia.org/resource/Terminator,_The",Q694146
+196,Dead Poets Society (1989),http://dbpedia.org/resource/Dead_Poets_Society,Q5496909
+197,"Graduate, The (1967)","http://dbpedia.org/resource/Graduate,_The",Q1042114
+198,Nikita (La Femme Nikita) (1990),http://dbpedia.org/resource/Nikita,Q1659479
+199,"Bridge on the River Kwai, The (1957)","http://dbpedia.org/resource/Bridge_on_the_River_Kwai,_The",Q4771013
+200,"Shining, The (1980)","http://dbpedia.org/resource/Shining,_The",Q1549837
+201,Evil Dead II (1987),http://dbpedia.org/resource/Evil_Dead_II,Q9271422
+202,Groundhog Day (1993),http://dbpedia.org/resource/Groundhog_Day,Q2417318
+203,Unforgiven (1992),http://dbpedia.org/resource/Unforgiven,Q9972400
+204,Back to the Future (1985),http://dbpedia.org/resource/Back_to_the_Future,Q8792750
+205,Patton (1970),http://dbpedia.org/resource/Patton,Q5538905
+206,Akira (1988),http://dbpedia.org/resource/Akira,Q6441453
+207,Cyrano de Bergerac (1990),http://dbpedia.org/resource/Cyrano_de_Bergerac,Q6335303
+208,Young Frankenstein (1974),http://dbpedia.org/resource/Young_Frankenstein,Q7426747
+209,This Is Spinal Tap (1984),http://dbpedia.org/resource/This_Is_Spinal_Tap,Q4932622
+210,Indiana Jones and the Last Crusade (1989),http://dbpedia.org/resource/Indiana_Jones_and_the_Last_Crusade,Q9243059
+211,M*A*S*H (1970),http://dbpedia.org/resource/M*A*S*H,Q4556142
+212,"Unbearable Lightness of Being, The (1988)","http://dbpedia.org/resource/Unbearable_Lightness_of_Being,_The",Q1757969
+213,"Room with a View, A (1986)","http://dbpedia.org/resource/Room_with_a_View,_A",Q9063664
+214,Pink Floyd - The Wall (1982),http://dbpedia.org/resource/Pink_Floyd_-_The_Wall,Q6385578
+215,Field of Dreams (1989),http://dbpedia.org/resource/Field_of_Dreams,Q2397071
+216,When Harry Met Sally... (1989),http://dbpedia.org/resource/When_Harry_Met_Sally...,Q8350160
+217,Bram Stoker's Dracula (1992),http://dbpedia.org/resource/Bram_Stoker's_Dracula,Q4231066
+218,Cape Fear (1991),http://dbpedia.org/resource/Cape_Fear,Q7036892
+219,"Nightmare on Elm Street, A (1984)","http://dbpedia.org/resource/Nightmare_on_Elm_Street,_A",Q5605786
+220,"Mirror Has Two Faces, The (1996)","http://dbpedia.org/resource/Mirror_Has_Two_Faces,_The",Q9179913
+221,Breaking the Waves (1996),http://dbpedia.org/resource/Breaking_the_Waves,Q176360
+222,Star Trek: First Contact (1996),http://dbpedia.org/resource/Star_Trek:_First_Contact,Q6546716
+223,Sling Blade (1996),http://dbpedia.org/resource/Sling_Blade,Q3312350
+224,Ridicule (1996),http://dbpedia.org/resource/Ridicule,Q7062594
+225,101 Dalmatians (1996),http://dbpedia.org/resource/101_Dalmatians,Q7854459
+226,Die Hard 2 (1990),http://dbpedia.org/resource/Die_Hard_2,Q645861
+227,Star Trek VI: The Undiscovered Country (1991),http://dbpedia.org/resource/Star_Trek_VI:_The_Undiscovered_Country,Q1150448
+228,Star Trek: The Wrath of Khan (1982),http://dbpedia.org/resource/Star_Trek:_The_Wrath_of_Khan,Q4532519
+229,Star Trek III: The Search for Spock (1984),http://dbpedia.org/resource/Star_Trek_III:_The_Search_for_Spock,Q8273295
+230,Star Trek IV: The Voyage Home (1986),http://dbpedia.org/resource/Star_Trek_IV:_The_Voyage_Home,Q4542662
+231,Batman Returns (1992),http://dbpedia.org/resource/Batman_Returns,Q9025612
+232,Young Guns (1988),http://dbpedia.org/resource/Young_Guns,Q2345090
+233,Under Siege (1992),http://dbpedia.org/resource/Under_Siege,Q4738050
+234,Jaws (1975),http://dbpedia.org/resource/Jaws,Q4468701
+235,Mars Attacks! (1996),http://dbpedia.org/resource/Mars_Attacks!,Q2430258
+236,Citizen Ruth (1996),http://dbpedia.org/resource/Citizen_Ruth,Q3348920
+237,Jerry Maguire (1996),http://dbpedia.org/resource/Jerry_Maguire,Q5569615
+238,Raising Arizona (1987),http://dbpedia.org/resource/Raising_Arizona,Q5593753
+239,Sneakers (1992),http://dbpedia.org/resource/Sneakers,Q8392092
+240,Beavis and Butt-head Do America (1996),http://dbpedia.org/resource/Beavis_and_Butt-head_Do_America,Q7840974
+241,"Last of the Mohicans, The (1992)","http://dbpedia.org/resource/Last_of_the_Mohicans,_The",Q6452019
+242,Kolya (1996),http://dbpedia.org/resource/Kolya,Q3699221
+243,Jungle2Jungle (1997),http://dbpedia.org/resource/Jungle2Jungle,Q7013386
+244,Smilla's Sense of Snow (1997),http://dbpedia.org/resource/Smilla's_Sense_of_Snow,Q4336529
+245,"Devil's Own, The (1997)","http://dbpedia.org/resource/Devil's_Own,_The",Q6077192
+246,Chasing Amy (1997),http://dbpedia.org/resource/Chasing_Amy,Q5707876
+247,Turbo: A Power Rangers Movie (1997),http://dbpedia.org/resource/Turbo:_A_Power_Rangers_Movie,Q8412346
+248,Grosse Pointe Blank (1997),http://dbpedia.org/resource/Grosse_Pointe_Blank,Q8925391
+249,Austin Powers: International Man of Mystery (1997),http://dbpedia.org/resource/Austin_Powers:_International_Man_of_Mystery,Q116032
+250,"Fifth Element, The (1997)","http://dbpedia.org/resource/Fifth_Element,_The",Q7692706
+251,Shall We Dance? (1996),http://dbpedia.org/resource/Shall_We_Dance?,Q8866932
+252,"Lost World: Jurassic Park, The (1997)","http://dbpedia.org/resource/Lost_World:_Jurassic_Park,_The",Q21727
+253,"Pillow Book, The (1995)","http://dbpedia.org/resource/Pillow_Book,_The",Q7159312
+254,Batman & Robin (1997),http://dbpedia.org/resource/Batman_&_Robin,Q8264033
+255,My Best Friend's Wedding (1997),http://dbpedia.org/resource/My_Best_Friend's_Wedding,Q8987948
+256,When the Cats Away (Chacun cherche son chat) (1996),http://dbpedia.org/resource/When_the_Cats_Away,Q7216786
+257,Men in Black (1997),http://dbpedia.org/resource/Men_in_Black,Q726061
+258,Contact (1997),http://dbpedia.org/resource/Contact,Q7327031
+259,George of the Jungle (1997),http://dbpedia.org/resource/George_of_the_Jungle,Q2971062
+260,Event Horizon (1997),http://dbpedia.org/resource/Event_Horizon,Q6188304
+261,Air Bud (1997),http://dbpedia.org/resource/Air_Bud,Q1716690
+262,In the Company of Men (1997),http://dbpedia.org/resource/In_the_Company_of_Men,Q638887
+263,Steel (1997),http://dbpedia.org/resource/Steel,Q2560857
+264,Mimic (1997),http://dbpedia.org/resource/Mimic,Q6632018
+265,"Hunt for Red October, The (1990)","http://dbpedia.org/resource/Hunt_for_Red_October,_The",Q3815663
+266,Kull the Conqueror (1997),http://dbpedia.org/resource/Kull_the_Conqueror,Q605722
+267,unknown,http://dbpedia.org/resource/unknown,Q1009080
+268,Chasing Amy (1997),http://dbpedia.org/resource/Chasing_Amy,Q5707876
+269,"Full Monty, The (1997)","http://dbpedia.org/resource/Full_Monty,_The",Q4031773
+270,Gattaca (1997),http://dbpedia.org/resource/Gattaca,Q4588206
+271,Starship Troopers (1997),http://dbpedia.org/resource/Starship_Troopers,Q2733766
+272,Good Will Hunting (1997),http://dbpedia.org/resource/Good_Will_Hunting,Q8582435
+273,Heat (1995),http://dbpedia.org/resource/Heat,Q2817267
+274,Sabrina (1995),http://dbpedia.org/resource/Sabrina,Q2819644
+275,Sense and Sensibility (1995),http://dbpedia.org/resource/Sense_and_Sensibility,Q6265254
+276,Leaving Las Vegas (1995),http://dbpedia.org/resource/Leaving_Las_Vegas,Q8500311
+277,Restoration (1995),http://dbpedia.org/resource/Restoration,Q7891645
+278,Bed of Roses (1996),http://dbpedia.org/resource/Bed_of_Roses,Q4668918
+279,Once Upon a Time... When We Were Colored (1995),http://dbpedia.org/resource/Once_Upon_a_Time..._When_We_Were_Colored,Q5829132
+280,Up Close and Personal (1996),http://dbpedia.org/resource/Up_Close_and_Personal,Q7875085
+281,"River Wild, The (1994)","http://dbpedia.org/resource/River_Wild,_The",Q734116
+282,"Time to Kill, A (1996)","http://dbpedia.org/resource/Time_to_Kill,_A",Q7132557
+283,Emma (1996),http://dbpedia.org/resource/Emma,Q1406647
+284,Tin Cup (1996),http://dbpedia.org/resource/Tin_Cup,Q7244331
+285,Secrets & Lies (1996),http://dbpedia.org/resource/Secrets_&_Lies,Q8586297
+286,"English Patient, The (1996)","http://dbpedia.org/resource/English_Patient,_The",Q5935200
+287,Marvin's Room (1996),http://dbpedia.org/resource/Marvin's_Room,Q6267108
+288,Scream (1996),http://dbpedia.org/resource/Scream,Q8379986
+289,Evita (1996),http://dbpedia.org/resource/Evita,Q8697325
+290,Fierce Creatures (1997),http://dbpedia.org/resource/Fierce_Creatures,Q9291552
+291,Absolute Power (1997),http://dbpedia.org/resource/Absolute_Power,Q2289426
+292,Rosewood (1997),http://dbpedia.org/resource/Rosewood,Q3027395
+293,Donnie Brasco (1997),http://dbpedia.org/resource/Donnie_Brasco,Q4283194
+294,Liar Liar (1997),http://dbpedia.org/resource/Liar_Liar,Q2092162
+295,Breakdown (1997),http://dbpedia.org/resource/Breakdown,Q9079186
+296,"Promesse, La (1996)","http://dbpedia.org/resource/Promesse,_La",Q4499672
+297,Ulee's Gold (1997),http://dbpedia.org/resource/Ulee's_Gold,Q9615048
+298,Face/Off (1997),http://dbpedia.org/resource/Face/Off,Q9633697
+299,Hoodlum (1997),http://dbpedia.org/resource/Hoodlum,Q9144694
+300,Air Force One (1997),http://dbpedia.org/resource/Air_Force_One,Q9492790
+301,In & Out (1997),http://dbpedia.org/resource/In_&_Out,Q8869709
+302,L.A. Confidential (1997),http://dbpedia.org/resource/L.A._Confidential,Q229125
+303,Ulee's Gold (1997),http://dbpedia.org/resource/Ulee's_Gold,Q9615048
+304,Fly Away Home (1996),http://dbpedia.org/resource/Fly_Away_Home,Q6979829
+305,"Ice Storm, The (1997)","http://dbpedia.org/resource/Ice_Storm,_The",Q4573230
+306,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",http://dbpedia.org/resource/Mrs._Brown,Q1710729
+307,"Devil's Advocate, The (1997)","http://dbpedia.org/resource/Devil's_Advocate,_The",Q6236632
+308,FairyTale: A True Story (1997),http://dbpedia.org/resource/FairyTale:_A_True_Story,Q7262179
+309,Deceiver (1997),http://dbpedia.org/resource/Deceiver,Q6294525
+310,"Rainmaker, The (1997)","http://dbpedia.org/resource/Rainmaker,_The",Q4015798
+311,"Wings of the Dove, The (1997)","http://dbpedia.org/resource/Wings_of_the_Dove,_The",Q6676466
+312,Midnight in the Garden of Good and Evil (1997),http://dbpedia.org/resource/Midnight_in_the_Garden_of_Good_and_Evil,Q9276898
+313,Titanic (1997),http://dbpedia.org/resource/Titanic,Q8660206
+314,3 Ninjas: High Noon At Mega Mountain (1998),http://dbpedia.org/resource/3_Ninjas:_High_Noon_At_Mega_Mountain,Q3726308
+315,Apt Pupil (1998),http://dbpedia.org/resource/Apt_Pupil,Q5201221
+316,As Good As It Gets (1997),http://dbpedia.org/resource/As_Good_As_It_Gets,Q5164376
+317,In the Name of the Father (1993),http://dbpedia.org/resource/In_the_Name_of_the_Father,Q158867
+318,Schindler's List (1993),http://dbpedia.org/resource/Schindler's_List,Q7724357
+319,Everyone Says I Love You (1996),http://dbpedia.org/resource/Everyone_Says_I_Love_You,Q8827942
+320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),http://dbpedia.org/resource/Paradise_Lost:_The_Child_Murders_at_Robin_Hood_Hills,Q7194250
+321,Mother (1996),http://dbpedia.org/resource/Mother,Q6328224
+322,Murder at 1600 (1997),http://dbpedia.org/resource/Murder_at_1600,Q709232
+323,Dante's Peak (1997),http://dbpedia.org/resource/Dante's_Peak,Q2931666
+324,Lost Highway (1997),http://dbpedia.org/resource/Lost_Highway,Q3087481
+325,Crash (1996),http://dbpedia.org/resource/Crash,Q1746048
+326,G.I. Jane (1997),http://dbpedia.org/resource/G.I._Jane,Q1489052
+327,Cop Land (1997),http://dbpedia.org/resource/Cop_Land,Q3035432
+328,Conspiracy Theory (1997),http://dbpedia.org/resource/Conspiracy_Theory,Q8488697
+329,Desperate Measures (1998),http://dbpedia.org/resource/Desperate_Measures,Q2466622
+330,187 (1997),http://dbpedia.org/resource/187,Q41248
+331,"Edge, The (1997)","http://dbpedia.org/resource/Edge,_The",Q5147117
+332,Kiss the Girls (1997),http://dbpedia.org/resource/Kiss_the_Girls,Q2830025
+333,"Game, The (1997)","http://dbpedia.org/resource/Game,_The",Q537146
+334,U Turn (1997),http://dbpedia.org/resource/U_Turn,Q1947330
+335,How to Be a Player (1997),http://dbpedia.org/resource/How_to_Be_a_Player,Q1607954
+336,Playing God (1997),http://dbpedia.org/resource/Playing_God,Q4314898
+337,"House of Yes, The (1997)","http://dbpedia.org/resource/House_of_Yes,_The",Q8995134
+338,Bean (1997),http://dbpedia.org/resource/Bean,Q3662060
+339,Mad City (1997),http://dbpedia.org/resource/Mad_City,Q2814721
+340,Boogie Nights (1997),http://dbpedia.org/resource/Boogie_Nights,Q793018
+341,Critical Care (1997),http://dbpedia.org/resource/Critical_Care,Q8131534
+342,"Man Who Knew Too Little, The (1997)","http://dbpedia.org/resource/Man_Who_Knew_Too_Little,_The",Q8926297
+343,Alien: Resurrection (1997),http://dbpedia.org/resource/Alien:_Resurrection,Q8131883
+344,"Apostle, The (1997)","http://dbpedia.org/resource/Apostle,_The",Q6982068
+345,Deconstructing Harry (1997),http://dbpedia.org/resource/Deconstructing_Harry,Q2441453
+346,Jackie Brown (1997),http://dbpedia.org/resource/Jackie_Brown,Q4463328
+347,Wag the Dog (1997),http://dbpedia.org/resource/Wag_the_Dog,Q1465178
+348,Desperate Measures (1998),http://dbpedia.org/resource/Desperate_Measures,Q2466622
+349,Hard Rain (1998),http://dbpedia.org/resource/Hard_Rain,Q1905614
+350,Fallen (1998),http://dbpedia.org/resource/Fallen,Q5943963
+351,"Prophecy II, The (1998)","http://dbpedia.org/resource/Prophecy_II,_The",Q9148678
+352,Spice World (1997),http://dbpedia.org/resource/Spice_World,Q3829323
+353,Deep Rising (1998),http://dbpedia.org/resource/Deep_Rising,Q9671893
+354,"Wedding Singer, The (1998)","http://dbpedia.org/resource/Wedding_Singer,_The",Q6878238
+355,Sphere (1998),http://dbpedia.org/resource/Sphere,Q9678132
+356,"Client, The (1994)","http://dbpedia.org/resource/Client,_The",Q4695214
+357,One Flew Over the Cuckoo's Nest (1975),http://dbpedia.org/resource/One_Flew_Over_the_Cuckoo's_Nest,Q1776954
+358,Spawn (1997),http://dbpedia.org/resource/Spawn,Q1849898
+359,"Assignment, The (1997)","http://dbpedia.org/resource/Assignment,_The",Q797028
+360,Wonderland (1997),http://dbpedia.org/resource/Wonderland,Q5568635
+361,Incognito (1997),http://dbpedia.org/resource/Incognito,Q6333570
+362,Blues Brothers 2000 (1998),http://dbpedia.org/resource/Blues_Brothers_2000,Q1641899
+363,Sudden Death (1995),http://dbpedia.org/resource/Sudden_Death,Q8563305
+364,Ace Ventura: When Nature Calls (1995),http://dbpedia.org/resource/Ace_Ventura:_When_Nature_Calls,Q1381522
+365,Powder (1995),http://dbpedia.org/resource/Powder,Q8462684
+366,Dangerous Minds (1995),http://dbpedia.org/resource/Dangerous_Minds,Q1936117
+367,Clueless (1995),http://dbpedia.org/resource/Clueless,Q9884113
+368,Bio-Dome (1996),http://dbpedia.org/resource/Bio-Dome,Q1333985
+369,Black Sheep (1996),http://dbpedia.org/resource/Black_Sheep,Q397591
+370,Mary Reilly (1996),http://dbpedia.org/resource/Mary_Reilly,Q4063429
+371,"Bridges of Madison County, The (1995)","http://dbpedia.org/resource/Bridges_of_Madison_County,_The",Q7068745
+372,Jeffrey (1995),http://dbpedia.org/resource/Jeffrey,Q2974359
+373,Judge Dredd (1995),http://dbpedia.org/resource/Judge_Dredd,Q4203483
+374,Mighty Morphin Power Rangers: The Movie (1995),http://dbpedia.org/resource/Mighty_Morphin_Power_Rangers:_The_Movie,Q8546621
+375,Showgirls (1995),http://dbpedia.org/resource/Showgirls,Q3195829
+376,Houseguest (1994),http://dbpedia.org/resource/Houseguest,Q8300359
+377,Heavyweights (1994),http://dbpedia.org/resource/Heavyweights,Q558038
+378,Miracle on 34th Street (1994),http://dbpedia.org/resource/Miracle_on_34th_Street,Q1222714
+379,Tales From the Crypt Presents: Demon Knight (1995),http://dbpedia.org/resource/Tales_From_the_Crypt_Presents:_Demon_Knight,Q9500309
+380,Star Trek: Generations (1994),http://dbpedia.org/resource/Star_Trek:_Generations,Q8910366
+381,Muriel's Wedding (1994),http://dbpedia.org/resource/Muriel's_Wedding,Q5508761
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)","http://dbpedia.org/resource/Adventures_of_Priscilla,_Queen_of_the_Desert,_The",Q6383898
+383,"Flintstones, The (1994)","http://dbpedia.org/resource/Flintstones,_The",Q7698569
+384,Naked Gun 33 1/3: The Final Insult (1994),http://dbpedia.org/resource/Naked_Gun_33_1/3:_The_Final_Insult,Q7846136
+385,True Lies (1994),http://dbpedia.org/resource/True_Lies,Q1240656
+386,Addams Family Values (1993),http://dbpedia.org/resource/Addams_Family_Values,Q3261746
+387,"Age of Innocence, The (1993)","http://dbpedia.org/resource/Age_of_Innocence,_The",Q4427364
+388,Beverly Hills Cop III (1994),http://dbpedia.org/resource/Beverly_Hills_Cop_III,Q668471
+389,Black Beauty (1994),http://dbpedia.org/resource/Black_Beauty,Q3214057
+390,Fear of a Black Hat (1993),http://dbpedia.org/resource/Fear_of_a_Black_Hat,Q2326695
+391,Last Action Hero (1993),http://dbpedia.org/resource/Last_Action_Hero,Q1155273
+392,"Man Without a Face, The (1993)","http://dbpedia.org/resource/Man_Without_a_Face,_The",Q9249165
+393,Mrs. Doubtfire (1993),http://dbpedia.org/resource/Mrs._Doubtfire,Q5578345
+394,Radioland Murders (1994),http://dbpedia.org/resource/Radioland_Murders,Q3196577
+395,Robin Hood: Men in Tights (1993),http://dbpedia.org/resource/Robin_Hood:_Men_in_Tights,Q7465046
+396,Serial Mom (1994),http://dbpedia.org/resource/Serial_Mom,Q6544235
+397,Striking Distance (1993),http://dbpedia.org/resource/Striking_Distance,Q6694232
+398,Super Mario Bros. (1993),http://dbpedia.org/resource/Super_Mario_Bros.,Q8712644
+399,"Three Musketeers, The (1993)","http://dbpedia.org/resource/Three_Musketeers,_The",Q9782831
+400,"Little Rascals, The (1994)","http://dbpedia.org/resource/Little_Rascals,_The",Q5328037
+401,"Brady Bunch Movie, The (1995)","http://dbpedia.org/resource/Brady_Bunch_Movie,_The",Q1263955
+402,Ghost (1990),http://dbpedia.org/resource/Ghost,Q6969948
+403,Batman (1989),http://dbpedia.org/resource/Batman,Q2934460
+404,Pinocchio (1940),http://dbpedia.org/resource/Pinocchio,Q7974602
+405,Mission: Impossible (1996),http://dbpedia.org/resource/Mission:_Impossible,Q6200093
+406,Thinner (1996),http://dbpedia.org/resource/Thinner,Q5615912
+407,Spy Hard (1996),http://dbpedia.org/resource/Spy_Hard,Q1008053
+408,"Close Shave, A (1995)","http://dbpedia.org/resource/Close_Shave,_A",Q4227699
+409,Jack (1996),http://dbpedia.org/resource/Jack,Q3731104
+410,Kingpin (1996),http://dbpedia.org/resource/Kingpin,Q5427144
+411,"Nutty Professor, The (1996)","http://dbpedia.org/resource/Nutty_Professor,_The",Q3943371
+412,"Very Brady Sequel, A (1996)","http://dbpedia.org/resource/Very_Brady_Sequel,_A",Q7758451
+413,Tales from the Crypt Presents: Bordello of Blood (1996),http://dbpedia.org/resource/Tales_from_the_Crypt_Presents:_Bordello_of_Blood,Q8213106
+414,My Favorite Year (1982),http://dbpedia.org/resource/My_Favorite_Year,Q9012891
+415,"Apple Dumpling Gang, The (1975)","http://dbpedia.org/resource/Apple_Dumpling_Gang,_The",Q5001882
+416,Old Yeller (1957),http://dbpedia.org/resource/Old_Yeller,Q5995195
+417,"Parent Trap, The (1961)","http://dbpedia.org/resource/Parent_Trap,_The",Q7834509
+418,Cinderella (1950),http://dbpedia.org/resource/Cinderella,Q3763911
+419,Mary Poppins (1964),http://dbpedia.org/resource/Mary_Poppins,Q3790998
+420,Alice in Wonderland (1951),http://dbpedia.org/resource/Alice_in_Wonderland,Q426054
+421,William Shakespeare's Romeo and Juliet (1996),http://dbpedia.org/resource/William_Shakespeare's_Romeo_and_Juliet,Q6248573
+422,Aladdin and the King of Thieves (1996),http://dbpedia.org/resource/Aladdin_and_the_King_of_Thieves,Q8829714
+423,E.T. the Extra-Terrestrial (1982),http://dbpedia.org/resource/E.T._the_Extra-Terrestrial,Q686610
+424,Children of the Corn: The Gathering (1996),http://dbpedia.org/resource/Children_of_the_Corn:_The_Gathering,Q5726594
+425,Bob Roberts (1992),http://dbpedia.org/resource/Bob_Roberts,Q1435461
+426,"Transformers: The Movie, The (1986)","http://dbpedia.org/resource/Transformers:_The_Movie,_The",Q4047133
+427,To Kill a Mockingbird (1962),http://dbpedia.org/resource/To_Kill_a_Mockingbird,Q2776851
+428,Harold and Maude (1971),http://dbpedia.org/resource/Harold_and_Maude,Q9811360
+429,"Day the Earth Stood Still, The (1951)","http://dbpedia.org/resource/Day_the_Earth_Stood_Still,_The",Q5070838
+430,Duck Soup (1933),http://dbpedia.org/resource/Duck_Soup,Q1810500
+431,Highlander (1986),http://dbpedia.org/resource/Highlander,Q1881883
+432,Fantasia (1940),http://dbpedia.org/resource/Fantasia,Q3369436
+433,Heathers (1989),http://dbpedia.org/resource/Heathers,Q1794788
+434,Forbidden Planet (1956),http://dbpedia.org/resource/Forbidden_Planet,Q2146485
+435,Butch Cassidy and the Sundance Kid (1969),http://dbpedia.org/resource/Butch_Cassidy_and_the_Sundance_Kid,Q639861
+436,"American Werewolf in London, An (1981)","http://dbpedia.org/resource/American_Werewolf_in_London,_An",Q2986887
+437,Amityville 1992: It's About Time (1992),http://dbpedia.org/resource/Amityville_1992:_It's_About_Time,Q4497341
+438,Amityville 3-D (1983),http://dbpedia.org/resource/Amityville_3-D,Q7736122
+439,Amityville: A New Generation (1993),http://dbpedia.org/resource/Amityville:_A_New_Generation,Q2877773
+440,Amityville II: The Possession (1982),http://dbpedia.org/resource/Amityville_II:_The_Possession,Q5756023
+441,"Amityville Horror, The (1979)","http://dbpedia.org/resource/Amityville_Horror,_The",Q4476090
+442,"Amityville Curse, The (1990)","http://dbpedia.org/resource/Amityville_Curse,_The",Q4828465
+443,"Birds, The (1963)","http://dbpedia.org/resource/Birds,_The",Q6888245
+444,"Blob, The (1958)","http://dbpedia.org/resource/Blob,_The",Q2325499
+445,"Body Snatcher, The (1945)","http://dbpedia.org/resource/Body_Snatcher,_The",Q9326626
+446,Burnt Offerings (1976),http://dbpedia.org/resource/Burnt_Offerings,Q197811
+447,Carrie (1976),http://dbpedia.org/resource/Carrie,Q2877353
+448,"Omen, The (1976)","http://dbpedia.org/resource/Omen,_The",Q5534284
+449,Star Trek: The Motion Picture (1979),http://dbpedia.org/resource/Star_Trek:_The_Motion_Picture,Q4562916
+450,Star Trek V: The Final Frontier (1989),http://dbpedia.org/resource/Star_Trek_V:_The_Final_Frontier,Q4503095
+451,Grease (1978),http://dbpedia.org/resource/Grease,Q8907357
+452,Jaws 2 (1978),http://dbpedia.org/resource/Jaws_2,Q1762843
+453,Jaws 3-D (1983),http://dbpedia.org/resource/Jaws_3-D,Q4459249
+454,Bastard Out of Carolina (1996),http://dbpedia.org/resource/Bastard_Out_of_Carolina,Q8929649
+455,Jackie Chan's First Strike (1996),http://dbpedia.org/resource/Jackie_Chan's_First_Strike,Q5363306
+456,Beverly Hills Ninja (1997),http://dbpedia.org/resource/Beverly_Hills_Ninja,Q8386489
+457,Free Willy 3: The Rescue (1997),http://dbpedia.org/resource/Free_Willy_3:_The_Rescue,Q3354835
+458,Nixon (1995),http://dbpedia.org/resource/Nixon,Q8173579
+459,"Cry, the Beloved Country (1995)","http://dbpedia.org/resource/Cry,_the_Beloved_Country",Q6298390
+460,"Crossing Guard, The (1995)","http://dbpedia.org/resource/Crossing_Guard,_The",Q1433686
+461,Smoke (1995),http://dbpedia.org/resource/Smoke,Q5102887
+462,Like Water For Chocolate (Como agua para chocolate) (1992),http://dbpedia.org/resource/Like_Water_For_Chocolate,Q7698033
+463,"Secret of Roan Inish, The (1994)","http://dbpedia.org/resource/Secret_of_Roan_Inish,_The",Q3557090
+464,Vanya on 42nd Street (1994),http://dbpedia.org/resource/Vanya_on_42nd_Street,Q3883681
+465,"Jungle Book, The (1994)","http://dbpedia.org/resource/Jungle_Book,_The",Q8811656
+466,Red Rock West (1992),http://dbpedia.org/resource/Red_Rock_West,Q8110262
+467,"Bronx Tale, A (1993)","http://dbpedia.org/resource/Bronx_Tale,_A",Q4192339
+468,Rudy (1993),http://dbpedia.org/resource/Rudy,Q4543627
+469,Short Cuts (1993),http://dbpedia.org/resource/Short_Cuts,Q3239876
+470,Tombstone (1993),http://dbpedia.org/resource/Tombstone,Q8240028
+471,Courage Under Fire (1996),http://dbpedia.org/resource/Courage_Under_Fire,Q6597396
+472,Dragonheart (1996),http://dbpedia.org/resource/Dragonheart,Q1503904
+473,James and the Giant Peach (1996),http://dbpedia.org/resource/James_and_the_Giant_Peach,Q4083177
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),http://dbpedia.org/resource/Dr._Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb,Q6989319
+475,Trainspotting (1996),http://dbpedia.org/resource/Trainspotting,Q1130685
+476,"First Wives Club, The (1996)","http://dbpedia.org/resource/First_Wives_Club,_The",Q8323334
+477,Matilda (1996),http://dbpedia.org/resource/Matilda,Q61497
+478,"Philadelphia Story, The (1940)","http://dbpedia.org/resource/Philadelphia_Story,_The",Q1671287
+479,Vertigo (1958),http://dbpedia.org/resource/Vertigo,Q7016689
+480,North by Northwest (1959),http://dbpedia.org/resource/North_by_Northwest,Q9906662
+481,"Apartment, The (1960)","http://dbpedia.org/resource/Apartment,_The",Q4255594
+482,Some Like It Hot (1959),http://dbpedia.org/resource/Some_Like_It_Hot,Q6804947
+483,Casablanca (1942),http://dbpedia.org/resource/Casablanca,Q6513344
+484,"Maltese Falcon, The (1941)","http://dbpedia.org/resource/Maltese_Falcon,_The",Q3684543
+485,My Fair Lady (1964),http://dbpedia.org/resource/My_Fair_Lady,Q126594
+486,Sabrina (1954),http://dbpedia.org/resource/Sabrina,Q2819644
+487,Roman Holiday (1953),http://dbpedia.org/resource/Roman_Holiday,Q5747622
+488,Sunset Blvd. (1950),http://dbpedia.org/resource/Sunset_Blvd.,Q5047603
+489,Notorious (1946),http://dbpedia.org/resource/Notorious,Q4067278
+490,To Catch a Thief (1955),http://dbpedia.org/resource/To_Catch_a_Thief,Q720304
+491,"Adventures of Robin Hood, The (1938)","http://dbpedia.org/resource/Adventures_of_Robin_Hood,_The",Q6081669
+492,East of Eden (1955),http://dbpedia.org/resource/East_of_Eden,Q2283578
+493,"Thin Man, The (1934)","http://dbpedia.org/resource/Thin_Man,_The",Q8105314
+494,His Girl Friday (1940),http://dbpedia.org/resource/His_Girl_Friday,Q5596055
+495,Around the World in 80 Days (1956),http://dbpedia.org/resource/Around_the_World_in_80_Days,Q2078691
+496,It's a Wonderful Life (1946),http://dbpedia.org/resource/It's_a_Wonderful_Life,Q1743106
+497,Bringing Up Baby (1938),http://dbpedia.org/resource/Bringing_Up_Baby,Q73292
+498,"African Queen, The (1951)","http://dbpedia.org/resource/African_Queen,_The",Q2833657
+499,Cat on a Hot Tin Roof (1958),http://dbpedia.org/resource/Cat_on_a_Hot_Tin_Roof,Q5353699
+500,Fly Away Home (1996),http://dbpedia.org/resource/Fly_Away_Home,Q6979829
+501,Dumbo (1941),http://dbpedia.org/resource/Dumbo,Q1428572
+502,Bananas (1971),http://dbpedia.org/resource/Bananas,Q7263995
+503,"Candidate, The (1972)","http://dbpedia.org/resource/Candidate,_The",Q2078280
+504,Bonnie and Clyde (1967),http://dbpedia.org/resource/Bonnie_and_Clyde,Q257297
+505,Dial M for Murder (1954),http://dbpedia.org/resource/Dial_M_for_Murder,Q7469012
+506,Rebel Without a Cause (1955),http://dbpedia.org/resource/Rebel_Without_a_Cause,Q3165671
+507,"Streetcar Named Desire, A (1951)","http://dbpedia.org/resource/Streetcar_Named_Desire,_A",Q4451369
+508,"People vs. Larry Flynt, The (1996)","http://dbpedia.org/resource/People_vs._Larry_Flynt,_The",Q9165868
+509,My Left Foot (1989),http://dbpedia.org/resource/My_Left_Foot,Q6830102
+510,"Magnificent Seven, The (1954)","http://dbpedia.org/resource/Magnificent_Seven,_The",Q4370980
+511,Lawrence of Arabia (1962),http://dbpedia.org/resource/Lawrence_of_Arabia,Q7401881
+512,Wings of Desire (1987),http://dbpedia.org/resource/Wings_of_Desire,Q7284819
+513,"Third Man, The (1949)","http://dbpedia.org/resource/Third_Man,_The",Q3833762
+514,Annie Hall (1977),http://dbpedia.org/resource/Annie_Hall,Q197205
+515,"Boot, Das (1981)","http://dbpedia.org/resource/Boot,_Das",Q1074712
+516,Local Hero (1983),http://dbpedia.org/resource/Local_Hero,Q6208797
+517,Manhattan (1979),http://dbpedia.org/resource/Manhattan,Q1119398
+518,Miller's Crossing (1990),http://dbpedia.org/resource/Miller's_Crossing,Q1688129
+519,"Treasure of the Sierra Madre, The (1948)","http://dbpedia.org/resource/Treasure_of_the_Sierra_Madre,_The",Q2677586
+520,"Great Escape, The (1963)","http://dbpedia.org/resource/Great_Escape,_The",Q8504454
+521,"Deer Hunter, The (1978)","http://dbpedia.org/resource/Deer_Hunter,_The",Q2533747
+522,Down by Law (1986),http://dbpedia.org/resource/Down_by_Law,Q7767810
+523,Cool Hand Luke (1967),http://dbpedia.org/resource/Cool_Hand_Luke,Q6474543
+524,"Great Dictator, The (1940)","http://dbpedia.org/resource/Great_Dictator,_The",Q1784540
+525,"Big Sleep, The (1946)","http://dbpedia.org/resource/Big_Sleep,_The",Q6054319
+526,Ben-Hur (1959),http://dbpedia.org/resource/Ben-Hur,Q9970586
+527,Gandhi (1982),http://dbpedia.org/resource/Gandhi,Q6513185
+528,"Killing Fields, The (1984)","http://dbpedia.org/resource/Killing_Fields,_The",Q1613642
+529,My Life as a Dog (Mitt liv som hund) (1985),http://dbpedia.org/resource/My_Life_as_a_Dog,Q6410363
+530,"Man Who Would Be King, The (1975)","http://dbpedia.org/resource/Man_Who_Would_Be_King,_The",Q5250337
+531,Shine (1996),http://dbpedia.org/resource/Shine,Q688266
+532,Kama Sutra: A Tale of Love (1996),http://dbpedia.org/resource/Kama_Sutra:_A_Tale_of_Love,Q1934248
+533,"Daytrippers, The (1996)","http://dbpedia.org/resource/Daytrippers,_The",Q5866606
+534,Traveller (1997),http://dbpedia.org/resource/Traveller,Q9068748
+535,Addicted to Love (1997),http://dbpedia.org/resource/Addicted_to_Love,Q109518
+536,Ponette (1996),http://dbpedia.org/resource/Ponette,Q9530110
+537,My Own Private Idaho (1991),http://dbpedia.org/resource/My_Own_Private_Idaho,Q3398907
+538,Anastasia (1997),http://dbpedia.org/resource/Anastasia,Q5411615
+539,Mouse Hunt (1997),http://dbpedia.org/resource/Mouse_Hunt,Q855745
+540,Money Train (1995),http://dbpedia.org/resource/Money_Train,Q6898585
+541,Mortal Kombat (1995),http://dbpedia.org/resource/Mortal_Kombat,Q3166736
+542,Pocahontas (1995),http://dbpedia.org/resource/Pocahontas,Q8015677
+543,"Misérables, Les (1995)","http://dbpedia.org/resource/Misérables,_Les",Q5832891
+544,Things to Do in Denver when You're Dead (1995),http://dbpedia.org/resource/Things_to_Do_in_Denver_when_You're_Dead,Q6777849
+545,Vampire in Brooklyn (1995),http://dbpedia.org/resource/Vampire_in_Brooklyn,Q4651108
+546,Broken Arrow (1996),http://dbpedia.org/resource/Broken_Arrow,Q9790326
+547,"Young Poisoner's Handbook, The (1995)","http://dbpedia.org/resource/Young_Poisoner's_Handbook,_The",Q7693491
+548,"NeverEnding Story III, The (1994)","http://dbpedia.org/resource/NeverEnding_Story_III,_The",Q6277213
+549,Rob Roy (1995),http://dbpedia.org/resource/Rob_Roy,Q4068759
+550,Die Hard: With a Vengeance (1995),http://dbpedia.org/resource/Die_Hard:_With_a_Vengeance,Q9969345
+551,Lord of Illusions (1995),http://dbpedia.org/resource/Lord_of_Illusions,Q9505525
+552,Species (1995),http://dbpedia.org/resource/Species,Q5051022
+553,"Walk in the Clouds, A (1995)","http://dbpedia.org/resource/Walk_in_the_Clouds,_A",Q9352753
+554,Waterworld (1995),http://dbpedia.org/resource/Waterworld,Q4077932
+555,White Man's Burden (1995),http://dbpedia.org/resource/White_Man's_Burden,Q4791121
+556,Wild Bill (1995),http://dbpedia.org/resource/Wild_Bill,Q2759159
+557,Farinelli: il castrato (1994),http://dbpedia.org/resource/Farinelli:_il_castrato,Q7797229
+558,Heavenly Creatures (1994),http://dbpedia.org/resource/Heavenly_Creatures,Q1045612
+559,Interview with the Vampire (1994),http://dbpedia.org/resource/Interview_with_the_Vampire,Q9907396
+560,"Kid in King Arthur's Court, A (1995)","http://dbpedia.org/resource/Kid_in_King_Arthur's_Court,_A",Q1280760
+561,Mary Shelley's Frankenstein (1994),http://dbpedia.org/resource/Mary_Shelley's_Frankenstein,Q3582276
+562,"Quick and the Dead, The (1995)","http://dbpedia.org/resource/Quick_and_the_Dead,_The",Q983596
+563,Stephen King's The Langoliers (1995),http://dbpedia.org/resource/Stephen_King's_The_Langoliers,Q4770359
+564,Tales from the Hood (1995),http://dbpedia.org/resource/Tales_from_the_Hood,Q2390385
+565,Village of the Damned (1995),http://dbpedia.org/resource/Village_of_the_Damned,Q141342
+566,Clear and Present Danger (1994),http://dbpedia.org/resource/Clear_and_Present_Danger,Q5794220
+567,Wes Craven's New Nightmare (1994),http://dbpedia.org/resource/Wes_Craven's_New_Nightmare,Q852026
+568,Speed (1994),http://dbpedia.org/resource/Speed,Q1666097
+569,Wolf (1994),http://dbpedia.org/resource/Wolf,Q6652131
+570,Wyatt Earp (1994),http://dbpedia.org/resource/Wyatt_Earp,Q3024925
+571,Another Stakeout (1993),http://dbpedia.org/resource/Another_Stakeout,Q6832436
+572,Blown Away (1994),http://dbpedia.org/resource/Blown_Away,Q5129723
+573,Body Snatchers (1993),http://dbpedia.org/resource/Body_Snatchers,Q1511916
+574,Boxing Helena (1993),http://dbpedia.org/resource/Boxing_Helena,Q3120824
+575,City Slickers II: The Legend of Curly's Gold (1994),http://dbpedia.org/resource/City_Slickers_II:_The_Legend_of_Curly's_Gold,Q3339042
+576,Cliffhanger (1993),http://dbpedia.org/resource/Cliffhanger,Q4628044
+577,Coneheads (1993),http://dbpedia.org/resource/Coneheads,Q8458475
+578,Demolition Man (1993),http://dbpedia.org/resource/Demolition_Man,Q9820968
+579,Fatal Instinct (1993),http://dbpedia.org/resource/Fatal_Instinct,Q9407970
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)","http://dbpedia.org/resource/Englishman_Who_Went_Up_a_Hill,_But_Came_Down_a_Mountain,_The",Q2229341
+581,Kalifornia (1993),http://dbpedia.org/resource/Kalifornia,Q8328940
+582,"Piano, The (1993)","http://dbpedia.org/resource/Piano,_The",Q206047
+583,Romeo Is Bleeding (1993),http://dbpedia.org/resource/Romeo_Is_Bleeding,Q8643796
+584,"Secret Garden, The (1993)","http://dbpedia.org/resource/Secret_Garden,_The",Q444361
+585,Son in Law (1993),http://dbpedia.org/resource/Son_in_Law,Q6040736
+586,Terminal Velocity (1994),http://dbpedia.org/resource/Terminal_Velocity,Q558506
+587,"Hour of the Pig, The (1993)","http://dbpedia.org/resource/Hour_of_the_Pig,_The",Q3923504
+588,Beauty and the Beast (1991),http://dbpedia.org/resource/Beauty_and_the_Beast,Q5978888
+589,"Wild Bunch, The (1969)","http://dbpedia.org/resource/Wild_Bunch,_The",Q3209765
+590,Hellraiser: Bloodline (1996),http://dbpedia.org/resource/Hellraiser:_Bloodline,Q4886212
+591,Primal Fear (1996),http://dbpedia.org/resource/Primal_Fear,Q8136220
+592,True Crime (1995),http://dbpedia.org/resource/True_Crime,Q9098391
+593,Stalingrad (1993),http://dbpedia.org/resource/Stalingrad,Q9159231
+594,Heavy (1995),http://dbpedia.org/resource/Heavy,Q1586815
+595,"Fan, The (1996)","http://dbpedia.org/resource/Fan,_The",Q8411736
+596,"Hunchback of Notre Dame, The (1996)","http://dbpedia.org/resource/Hunchback_of_Notre_Dame,_The",Q4782042
+597,Eraser (1996),http://dbpedia.org/resource/Eraser,Q1040929
+598,"Big Squeeze, The (1996)","http://dbpedia.org/resource/Big_Squeeze,_The",Q5417412
+599,Police Story 4: Project S (Chao ji ji hua) (1993),http://dbpedia.org/resource/Police_Story_4:_Project_S,Q3658496
+600,Daniel Defoe's Robinson Crusoe (1996),http://dbpedia.org/resource/Daniel_Defoe's_Robinson_Crusoe,Q9993564
+601,For Whom the Bell Tolls (1943),http://dbpedia.org/resource/For_Whom_the_Bell_Tolls,Q3836060
+602,"American in Paris, An (1951)","http://dbpedia.org/resource/American_in_Paris,_An",Q4473872
+603,Rear Window (1954),http://dbpedia.org/resource/Rear_Window,Q1055481
+604,It Happened One Night (1934),http://dbpedia.org/resource/It_Happened_One_Night,Q3158546
+605,Meet Me in St. Louis (1944),http://dbpedia.org/resource/Meet_Me_in_St._Louis,Q3073338
+606,All About Eve (1950),http://dbpedia.org/resource/All_About_Eve,Q7187398
+607,Rebecca (1940),http://dbpedia.org/resource/Rebecca,Q7430613
+608,Spellbound (1945),http://dbpedia.org/resource/Spellbound,Q5725467
+609,Father of the Bride (1950),http://dbpedia.org/resource/Father_of_the_Bride,Q5798635
+610,Gigi (1958),http://dbpedia.org/resource/Gigi,Q1336834
+611,Laura (1944),http://dbpedia.org/resource/Laura,Q4547737
+612,Lost Horizon (1937),http://dbpedia.org/resource/Lost_Horizon,Q2318647
+613,My Man Godfrey (1936),http://dbpedia.org/resource/My_Man_Godfrey,Q1243405
+614,Giant (1956),http://dbpedia.org/resource/Giant,Q8972339
+615,"39 Steps, The (1935)","http://dbpedia.org/resource/39_Steps,_The",Q4095087
+616,Night of the Living Dead (1968),http://dbpedia.org/resource/Night_of_the_Living_Dead,Q1386279
+617,"Blue Angel, The (Blaue Engel, Der) (1930)","http://dbpedia.org/resource/Blue_Angel,_The",Q7083981
+618,Picnic (1955),http://dbpedia.org/resource/Picnic,Q4293191
+619,Extreme Measures (1996),http://dbpedia.org/resource/Extreme_Measures,Q8997955
+620,"Chamber, The (1996)","http://dbpedia.org/resource/Chamber,_The",Q2169798
+621,"Davy Crockett, King of the Wild Frontier (1955)","http://dbpedia.org/resource/Davy_Crockett,_King_of_the_Wild_Frontier",Q3923315
+622,Swiss Family Robinson (1960),http://dbpedia.org/resource/Swiss_Family_Robinson,Q3892030
+623,Angels in the Outfield (1994),http://dbpedia.org/resource/Angels_in_the_Outfield,Q3963986
+624,"Three Caballeros, The (1945)","http://dbpedia.org/resource/Three_Caballeros,_The",Q8559235
+625,"Sword in the Stone, The (1963)","http://dbpedia.org/resource/Sword_in_the_Stone,_The",Q7755063
+626,So Dear to My Heart (1949),http://dbpedia.org/resource/So_Dear_to_My_Heart,Q5689862
+627,Robin Hood: Prince of Thieves (1991),http://dbpedia.org/resource/Robin_Hood:_Prince_of_Thieves,Q1780589
+628,Sleepers (1996),http://dbpedia.org/resource/Sleepers,Q9344341
+629,Victor/Victoria (1982),http://dbpedia.org/resource/Victor/Victoria,Q2436184
+630,"Great Race, The (1965)","http://dbpedia.org/resource/Great_Race,_The",Q7784279
+631,"Crying Game, The (1992)","http://dbpedia.org/resource/Crying_Game,_The",Q5837420
+632,Sophie's Choice (1982),http://dbpedia.org/resource/Sophie's_Choice,Q3747016
+633,"Christmas Carol, A (1938)","http://dbpedia.org/resource/Christmas_Carol,_A",Q6514845
+634,Microcosmos: Le peuple de l'herbe (1996),http://dbpedia.org/resource/Microcosmos:_Le_peuple_de_l'herbe,Q8488586
+635,"Fog, The (1980)","http://dbpedia.org/resource/Fog,_The",Q2577558
+636,Escape from New York (1981),http://dbpedia.org/resource/Escape_from_New_York,Q7668367
+637,"Howling, The (1981)","http://dbpedia.org/resource/Howling,_The",Q4072064
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)","http://dbpedia.org/resource/Return_of_Martin_Guerre,_The",Q7041576
+639,"Tin Drum, The (Blechtrommel, Die) (1979)","http://dbpedia.org/resource/Tin_Drum,_The",Q6894328
+640,"Cook the Thief His Wife & Her Lover, The (1989)","http://dbpedia.org/resource/Cook_the_Thief_His_Wife_&_Her_Lover,_The",Q1038458
+641,Paths of Glory (1957),http://dbpedia.org/resource/Paths_of_Glory,Q8430389
+642,"Grifters, The (1990)","http://dbpedia.org/resource/Grifters,_The",Q869467
+643,The Innocent (1994),http://dbpedia.org/resource/The_Innocent,Q186713
+644,"Thin Blue Line, The (1988)","http://dbpedia.org/resource/Thin_Blue_Line,_The",Q1101547
+645,Paris Is Burning (1990),http://dbpedia.org/resource/Paris_Is_Burning,Q6206803
+646,Once Upon a Time in the West (1969),http://dbpedia.org/resource/Once_Upon_a_Time_in_the_West,Q5045771
+647,Ran (1985),http://dbpedia.org/resource/Ran,Q4819084
+648,"Quiet Man, The (1952)","http://dbpedia.org/resource/Quiet_Man,_The",Q7597139
+649,Once Upon a Time in America (1984),http://dbpedia.org/resource/Once_Upon_a_Time_in_America,Q2054130
+650,"Seventh Seal, The (Sjunde inseglet, Det) (1957)","http://dbpedia.org/resource/Seventh_Seal,_The",Q8101026
+651,Glory (1989),http://dbpedia.org/resource/Glory,Q8738188
+652,Rosencrantz and Guildenstern Are Dead (1990),http://dbpedia.org/resource/Rosencrantz_and_Guildenstern_Are_Dead,Q9209888
+653,Touch of Evil (1958),http://dbpedia.org/resource/Touch_of_Evil,Q9923873
+654,Chinatown (1974),http://dbpedia.org/resource/Chinatown,Q8734540
+655,Stand by Me (1986),http://dbpedia.org/resource/Stand_by_Me,Q8892014
+656,M (1931),http://dbpedia.org/resource/M,Q5525579
+657,"Manchurian Candidate, The (1962)","http://dbpedia.org/resource/Manchurian_Candidate,_The",Q5750960
+658,Pump Up the Volume (1990),http://dbpedia.org/resource/Pump_Up_the_Volume,Q2033399
+659,Arsenic and Old Lace (1944),http://dbpedia.org/resource/Arsenic_and_Old_Lace,Q3738423
+660,Fried Green Tomatoes (1991),http://dbpedia.org/resource/Fried_Green_Tomatoes,Q1244944
+661,High Noon (1952),http://dbpedia.org/resource/High_Noon,Q7662362
+662,Somewhere in Time (1980),http://dbpedia.org/resource/Somewhere_in_Time,Q6768339
+663,Being There (1979),http://dbpedia.org/resource/Being_There,Q4242313
+664,"Paris, Texas (1984)","http://dbpedia.org/resource/Paris,_Texas",Q1847750
+665,Alien 3 (1992),http://dbpedia.org/resource/Alien_3,Q9430562
+666,Blood For Dracula (Andy Warhol's Dracula) (1974),http://dbpedia.org/resource/Blood_For_Dracula,Q7822976
+667,Audrey Rose (1977),http://dbpedia.org/resource/Audrey_Rose,Q4088885
+668,Blood Beach (1981),http://dbpedia.org/resource/Blood_Beach,Q1592522
+669,Body Parts (1991),http://dbpedia.org/resource/Body_Parts,Q4760018
+670,Body Snatchers (1993),http://dbpedia.org/resource/Body_Snatchers,Q1511916
+671,Bride of Frankenstein (1935),http://dbpedia.org/resource/Bride_of_Frankenstein,Q662881
+672,Candyman (1992),http://dbpedia.org/resource/Candyman,Q7909784
+673,Cape Fear (1962),http://dbpedia.org/resource/Cape_Fear,Q7036892
+674,Cat People (1982),http://dbpedia.org/resource/Cat_People,Q7333705
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",http://dbpedia.org/resource/Nosferatu,Q1604545
+676,"Crucible, The (1996)","http://dbpedia.org/resource/Crucible,_The",Q9570411
+677,Fire on the Mountain (1996),http://dbpedia.org/resource/Fire_on_the_Mountain,Q5127131
+678,Volcano (1997),http://dbpedia.org/resource/Volcano,Q4566003
+679,Conan the Barbarian (1981),http://dbpedia.org/resource/Conan_the_Barbarian,Q3824230
+680,Kull the Conqueror (1997),http://dbpedia.org/resource/Kull_the_Conqueror,Q605722
+681,Wishmaster (1997),http://dbpedia.org/resource/Wishmaster,Q1541230
+682,I Know What You Did Last Summer (1997),http://dbpedia.org/resource/I_Know_What_You_Did_Last_Summer,Q8189960
+683,Rocket Man (1997),http://dbpedia.org/resource/Rocket_Man,Q4699473
+684,In the Line of Fire (1993),http://dbpedia.org/resource/In_the_Line_of_Fire,Q5389724
+685,Executive Decision (1996),http://dbpedia.org/resource/Executive_Decision,Q252448
+686,"Perfect World, A (1993)","http://dbpedia.org/resource/Perfect_World,_A",Q2515215
+687,McHale's Navy (1997),http://dbpedia.org/resource/McHale's_Navy,Q5930922
+688,Leave It to Beaver (1997),http://dbpedia.org/resource/Leave_It_to_Beaver,Q8177967
+689,"Jackal, The (1997)","http://dbpedia.org/resource/Jackal,_The",Q1580194
+690,Seven Years in Tibet (1997),http://dbpedia.org/resource/Seven_Years_in_Tibet,Q5583771
+691,Dark City (1998),http://dbpedia.org/resource/Dark_City,Q2338397
+692,"American President, The (1995)","http://dbpedia.org/resource/American_President,_The",Q3747357
+693,Casino (1995),http://dbpedia.org/resource/Casino,Q278693
+694,Persuasion (1995),http://dbpedia.org/resource/Persuasion,Q7178986
+695,Kicking and Screaming (1995),http://dbpedia.org/resource/Kicking_and_Screaming,Q7183126
+696,City Hall (1996),http://dbpedia.org/resource/City_Hall,Q7954242
+697,"Basketball Diaries, The (1995)","http://dbpedia.org/resource/Basketball_Diaries,_The",Q4881001
+698,"Browning Version, The (1994)","http://dbpedia.org/resource/Browning_Version,_The",Q3897024
+699,Little Women (1994),http://dbpedia.org/resource/Little_Women,Q8453013
+700,Miami Rhapsody (1995),http://dbpedia.org/resource/Miami_Rhapsody,Q1417239
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)","http://dbpedia.org/resource/Wonderful,_Horrible_Life_of_Leni_Riefenstahl,_The",Q286504
+702,Barcelona (1994),http://dbpedia.org/resource/Barcelona,Q807775
+703,Widows' Peak (1994),http://dbpedia.org/resource/Widows'_Peak,Q8270469
+704,"House of the Spirits, The (1993)","http://dbpedia.org/resource/House_of_the_Spirits,_The",Q7966009
+705,Singin' in the Rain (1952),http://dbpedia.org/resource/Singin'_in_the_Rain,Q2135008
+706,Bad Moon (1996),http://dbpedia.org/resource/Bad_Moon,Q9627447
+707,Enchanted April (1991),http://dbpedia.org/resource/Enchanted_April,Q6933051
+708,"Sex, Lies, and Videotape (1989)","http://dbpedia.org/resource/Sex,_Lies,_and_Videotape",Q7172249
+709,Strictly Ballroom (1992),http://dbpedia.org/resource/Strictly_Ballroom,Q7626508
+710,Better Off Dead... (1985),http://dbpedia.org/resource/Better_Off_Dead...,Q1632082
+711,"Substance of Fire, The (1996)","http://dbpedia.org/resource/Substance_of_Fire,_The",Q5085990
+712,Tin Men (1987),http://dbpedia.org/resource/Tin_Men,Q6459277
+713,Othello (1995),http://dbpedia.org/resource/Othello,Q412909
+714,Carrington (1995),http://dbpedia.org/resource/Carrington,Q5469475
+715,To Die For (1995),http://dbpedia.org/resource/To_Die_For,Q2643796
+716,Home for the Holidays (1995),http://dbpedia.org/resource/Home_for_the_Holidays,Q2287546
+717,"Juror, The (1996)","http://dbpedia.org/resource/Juror,_The",Q2462561
+718,In the Bleak Midwinter (1995),http://dbpedia.org/resource/In_the_Bleak_Midwinter,Q5158158
+719,Canadian Bacon (1994),http://dbpedia.org/resource/Canadian_Bacon,Q6142603
+720,First Knight (1995),http://dbpedia.org/resource/First_Knight,Q320077
+721,Mallrats (1995),http://dbpedia.org/resource/Mallrats,Q8503944
+722,Nine Months (1995),http://dbpedia.org/resource/Nine_Months,Q8044917
+723,Boys on the Side (1995),http://dbpedia.org/resource/Boys_on_the_Side,Q2176234
+724,Circle of Friends (1995),http://dbpedia.org/resource/Circle_of_Friends,Q7598167
+725,Exit to Eden (1994),http://dbpedia.org/resource/Exit_to_Eden,Q987511
+726,Fluke (1995),http://dbpedia.org/resource/Fluke,Q3052102
+727,Immortal Beloved (1994),http://dbpedia.org/resource/Immortal_Beloved,Q2091838
+728,Junior (1994),http://dbpedia.org/resource/Junior,Q7591276
+729,Nell (1994),http://dbpedia.org/resource/Nell,Q561578
+730,"Queen Margot (Reine Margot, La) (1994)",http://dbpedia.org/resource/Queen_Margot,Q1938720
+731,"Corrina, Corrina (1994)","http://dbpedia.org/resource/Corrina,_Corrina",Q2949051
+732,Dave (1993),http://dbpedia.org/resource/Dave,Q758820
+733,Go Fish (1994),http://dbpedia.org/resource/Go_Fish,Q157043
+734,Made in America (1993),http://dbpedia.org/resource/Made_in_America,Q6966994
+735,Philadelphia (1993),http://dbpedia.org/resource/Philadelphia,Q3917319
+736,Shadowlands (1993),http://dbpedia.org/resource/Shadowlands,Q4940604
+737,Sirens (1994),http://dbpedia.org/resource/Sirens,Q7852610
+738,Threesome (1994),http://dbpedia.org/resource/Threesome,Q6324293
+739,Pretty Woman (1990),http://dbpedia.org/resource/Pretty_Woman,Q8812820
+740,Jane Eyre (1996),http://dbpedia.org/resource/Jane_Eyre,Q4539615
+741,"Last Supper, The (1995)","http://dbpedia.org/resource/Last_Supper,_The",Q3979078
+742,Ransom (1996),http://dbpedia.org/resource/Ransom,Q4100377
+743,"Crow: City of Angels, The (1996)","http://dbpedia.org/resource/Crow:_City_of_Angels,_The",Q3818799
+744,Michael Collins (1996),http://dbpedia.org/resource/Michael_Collins,Q2384794
+745,"Ruling Class, The (1972)","http://dbpedia.org/resource/Ruling_Class,_The",Q1236517
+746,Real Genius (1985),http://dbpedia.org/resource/Real_Genius,Q6303415
+747,Benny & Joon (1993),http://dbpedia.org/resource/Benny_&_Joon,Q8336570
+748,"Saint, The (1997)","http://dbpedia.org/resource/Saint,_The",Q4679459
+749,"MatchMaker, The (1997)","http://dbpedia.org/resource/MatchMaker,_The",Q2059693
+750,Amistad (1997),http://dbpedia.org/resource/Amistad,Q7820925
+751,Tomorrow Never Dies (1997),http://dbpedia.org/resource/Tomorrow_Never_Dies,Q3842969
+752,"Replacement Killers, The (1998)","http://dbpedia.org/resource/Replacement_Killers,_The",Q4858093
+753,Burnt By the Sun (1994),http://dbpedia.org/resource/Burnt_By_the_Sun,Q9287698
+754,Red Corner (1997),http://dbpedia.org/resource/Red_Corner,Q5562758
+755,Jumanji (1995),http://dbpedia.org/resource/Jumanji,Q3752728
+756,Father of the Bride Part II (1995),http://dbpedia.org/resource/Father_of_the_Bride_Part_II,Q3541885
+757,Across the Sea of Time (1995),http://dbpedia.org/resource/Across_the_Sea_of_Time,Q1027130
+758,Lawnmower Man 2: Beyond Cyberspace (1996),http://dbpedia.org/resource/Lawnmower_Man_2:_Beyond_Cyberspace,Q6688862
+759,Fair Game (1995),http://dbpedia.org/resource/Fair_Game,Q3673745
+760,Screamers (1995),http://dbpedia.org/resource/Screamers,Q522876
+761,Nick of Time (1995),http://dbpedia.org/resource/Nick_of_Time,Q9577120
+762,Beautiful Girls (1996),http://dbpedia.org/resource/Beautiful_Girls,Q7212830
+763,Happy Gilmore (1996),http://dbpedia.org/resource/Happy_Gilmore,Q493534
+764,If Lucy Fell (1996),http://dbpedia.org/resource/If_Lucy_Fell,Q7788467
+765,Boomerang (1992),http://dbpedia.org/resource/Boomerang,Q910409
+766,Man of the Year (1995),http://dbpedia.org/resource/Man_of_the_Year,Q5300742
+767,"Addiction, The (1995)","http://dbpedia.org/resource/Addiction,_The",Q3665958
+768,Casper (1995),http://dbpedia.org/resource/Casper,Q6650167
+769,Congo (1995),http://dbpedia.org/resource/Congo,Q8371760
+770,Devil in a Blue Dress (1995),http://dbpedia.org/resource/Devil_in_a_Blue_Dress,Q1843863
+771,Johnny Mnemonic (1995),http://dbpedia.org/resource/Johnny_Mnemonic,Q7144752
+772,Kids (1995),http://dbpedia.org/resource/Kids,Q6062493
+773,Mute Witness (1994),http://dbpedia.org/resource/Mute_Witness,Q1415332
+774,"Prophecy, The (1995)","http://dbpedia.org/resource/Prophecy,_The",Q9569736
+775,Something to Talk About (1995),http://dbpedia.org/resource/Something_to_Talk_About,Q4385286
+776,Three Wishes (1995),http://dbpedia.org/resource/Three_Wishes,Q5353619
+777,Castle Freak (1995),http://dbpedia.org/resource/Castle_Freak,Q6192822
+778,Don Juan DeMarco (1995),http://dbpedia.org/resource/Don_Juan_DeMarco,Q8944470
+779,Drop Zone (1994),http://dbpedia.org/resource/Drop_Zone,Q7871867
+780,Dumb & Dumber (1994),http://dbpedia.org/resource/Dumb_&_Dumber,Q7619569
+781,French Kiss (1995),http://dbpedia.org/resource/French_Kiss,Q9386522
+782,Little Odessa (1994),http://dbpedia.org/resource/Little_Odessa,Q4120214
+783,Milk Money (1994),http://dbpedia.org/resource/Milk_Money,Q857082
+784,Beyond Bedlam (1993),http://dbpedia.org/resource/Beyond_Bedlam,Q9006813
+785,Only You (1994),http://dbpedia.org/resource/Only_You,Q5224537
+786,"Perez Family, The (1995)","http://dbpedia.org/resource/Perez_Family,_The",Q1510912
+787,Roommates (1995),http://dbpedia.org/resource/Roommates,Q5445591
+788,Relative Fear (1994),http://dbpedia.org/resource/Relative_Fear,Q8525242
+789,Swimming with Sharks (1995),http://dbpedia.org/resource/Swimming_with_Sharks,Q4797901
+790,Tommy Boy (1995),http://dbpedia.org/resource/Tommy_Boy,Q4133360
+791,"Baby-Sitters Club, The (1995)","http://dbpedia.org/resource/Baby-Sitters_Club,_The",Q2696733
+792,Bullets Over Broadway (1994),http://dbpedia.org/resource/Bullets_Over_Broadway,Q5737478
+793,Crooklyn (1994),http://dbpedia.org/resource/Crooklyn,Q9579190
+794,It Could Happen to You (1994),http://dbpedia.org/resource/It_Could_Happen_to_You,Q3087514
+795,Richie Rich (1994),http://dbpedia.org/resource/Richie_Rich,Q2441241
+796,Speechless (1994),http://dbpedia.org/resource/Speechless,Q7126292
+797,Timecop (1994),http://dbpedia.org/resource/Timecop,Q1949668
+798,Bad Company (1995),http://dbpedia.org/resource/Bad_Company,Q3051638
+799,Boys Life (1995),http://dbpedia.org/resource/Boys_Life,Q9172769
+800,In the Mouth of Madness (1995),http://dbpedia.org/resource/In_the_Mouth_of_Madness,Q644705
+801,"Air Up There, The (1994)","http://dbpedia.org/resource/Air_Up_There,_The",Q4360267
+802,Hard Target (1993),http://dbpedia.org/resource/Hard_Target,Q6649233
+803,Heaven & Earth (1993),http://dbpedia.org/resource/Heaven_&_Earth,Q5856274
+804,Jimmy Hollywood (1994),http://dbpedia.org/resource/Jimmy_Hollywood,Q5230338
+805,Manhattan Murder Mystery (1993),http://dbpedia.org/resource/Manhattan_Murder_Mystery,Q2204958
+806,Menace II Society (1993),http://dbpedia.org/resource/Menace_II_Society,Q3545623
+807,Poetic Justice (1993),http://dbpedia.org/resource/Poetic_Justice,Q103082
+808,"Program, The (1993)","http://dbpedia.org/resource/Program,_The",Q8615985
+809,Rising Sun (1993),http://dbpedia.org/resource/Rising_Sun,Q2951305
+810,"Shadow, The (1994)","http://dbpedia.org/resource/Shadow,_The",Q6907056
+811,Thirty-Two Short Films About Glenn Gould (1993),http://dbpedia.org/resource/Thirty-Two_Short_Films_About_Glenn_Gould,Q4477852
+812,Andre (1994),http://dbpedia.org/resource/Andre,Q9326056
+813,"Celluloid Closet, The (1995)","http://dbpedia.org/resource/Celluloid_Closet,_The",Q8558138
+814,"Great Day in Harlem, A (1994)","http://dbpedia.org/resource/Great_Day_in_Harlem,_A",Q9150726
+815,One Fine Day (1996),http://dbpedia.org/resource/One_Fine_Day,Q4151215
+816,Candyman: Farewell to the Flesh (1995),http://dbpedia.org/resource/Candyman:_Farewell_to_the_Flesh,Q1343324
+817,Frisk (1995),http://dbpedia.org/resource/Frisk,Q9688471
+818,Girl 6 (1996),http://dbpedia.org/resource/Girl_6,Q8751135
+819,Eddie (1996),http://dbpedia.org/resource/Eddie,Q8934530
+820,Space Jam (1996),http://dbpedia.org/resource/Space_Jam,Q3452424
+821,Mrs. Winterbourne (1996),http://dbpedia.org/resource/Mrs._Winterbourne,Q6484499
+822,Faces (1968),http://dbpedia.org/resource/Faces,Q3512913
+823,Mulholland Falls (1996),http://dbpedia.org/resource/Mulholland_Falls,Q4179614
+824,"Great White Hype, The (1996)","http://dbpedia.org/resource/Great_White_Hype,_The",Q6599169
+825,"Arrival, The (1996)","http://dbpedia.org/resource/Arrival,_The",Q3856875
+826,"Phantom, The (1996)","http://dbpedia.org/resource/Phantom,_The",Q696597
+827,Daylight (1996),http://dbpedia.org/resource/Daylight,Q5869327
+828,Alaska (1996),http://dbpedia.org/resource/Alaska,Q3369926
+829,Fled (1996),http://dbpedia.org/resource/Fled,Q1010558
+830,Power 98 (1995),http://dbpedia.org/resource/Power_98,Q9311451
+831,Escape from L.A. (1996),http://dbpedia.org/resource/Escape_from_L.A.,Q1908255
+832,Bogus (1996),http://dbpedia.org/resource/Bogus,Q4106945
+833,Bulletproof (1996),http://dbpedia.org/resource/Bulletproof,Q5088846
+834,Halloween: The Curse of Michael Myers (1995),http://dbpedia.org/resource/Halloween:_The_Curse_of_Michael_Myers,Q2657493
+835,"Gay Divorcee, The (1934)","http://dbpedia.org/resource/Gay_Divorcee,_The",Q9076831
+836,Ninotchka (1939),http://dbpedia.org/resource/Ninotchka,Q5800489
+837,Meet John Doe (1941),http://dbpedia.org/resource/Meet_John_Doe,Q245645
+838,In the Line of Duty 2 (1987),http://dbpedia.org/resource/In_the_Line_of_Duty_2,Q2308408
+839,Loch Ness (1995),http://dbpedia.org/resource/Loch_Ness,Q3946940
+840,Last Man Standing (1996),http://dbpedia.org/resource/Last_Man_Standing,Q9005029
+841,"Glimmer Man, The (1996)","http://dbpedia.org/resource/Glimmer_Man,_The",Q2429906
+842,Pollyanna (1960),http://dbpedia.org/resource/Pollyanna,Q2468488
+843,"Shaggy Dog, The (1959)","http://dbpedia.org/resource/Shaggy_Dog,_The",Q7307737
+844,Freeway (1996),http://dbpedia.org/resource/Freeway,Q1111566
+845,That Thing You Do! (1996),http://dbpedia.org/resource/That_Thing_You_Do!,Q9464899
+846,To Gillian on Her 37th Birthday (1996),http://dbpedia.org/resource/To_Gillian_on_Her_37th_Birthday,Q428577
+847,Looking for Richard (1996),http://dbpedia.org/resource/Looking_for_Richard,Q1444041
+848,"Murder, My Sweet (1944)","http://dbpedia.org/resource/Murder,_My_Sweet",Q9853224
+849,Days of Thunder (1990),http://dbpedia.org/resource/Days_of_Thunder,Q87351
+850,"Perfect Candidate, A (1996)","http://dbpedia.org/resource/Perfect_Candidate,_A",Q3727988
+851,Two or Three Things I Know About Her (1966),http://dbpedia.org/resource/Two_or_Three_Things_I_Know_About_Her,Q2295212
+852,"Bloody Child, The (1996)","http://dbpedia.org/resource/Bloody_Child,_The",Q8869424
+853,Braindead (1992),http://dbpedia.org/resource/Braindead,Q9925521
+854,Bad Taste (1987),http://dbpedia.org/resource/Bad_Taste,Q8268557
+855,Diva (1981),http://dbpedia.org/resource/Diva,Q5318284
+856,Night on Earth (1991),http://dbpedia.org/resource/Night_on_Earth,Q9296357
+857,Paris Was a Woman (1995),http://dbpedia.org/resource/Paris_Was_a_Woman,Q8488826
+858,Amityville: Dollhouse (1996),http://dbpedia.org/resource/Amityville:_Dollhouse,Q1794219
+859,April Fool's Day (1986),http://dbpedia.org/resource/April_Fool's_Day,Q1206611
+860,"Believers, The (1987)","http://dbpedia.org/resource/Believers,_The",Q8316069
+861,Nosferatu a Venezia (1986),http://dbpedia.org/resource/Nosferatu_a_Venezia,Q9853935
+862,Jingle All the Way (1996),http://dbpedia.org/resource/Jingle_All_the_Way,Q6151939
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)","http://dbpedia.org/resource/Garden_of_Finzi-Contini,_The",Q4861948
+864,My Fellow Americans (1996),http://dbpedia.org/resource/My_Fellow_Americans,Q9432717
+865,"Ice Storm, The (1997)","http://dbpedia.org/resource/Ice_Storm,_The",Q4573230
+866,Michael (1996),http://dbpedia.org/resource/Michael,Q4801750
+867,"Whole Wide World, The (1996)","http://dbpedia.org/resource/Whole_Wide_World,_The",Q5626975
+868,Hearts and Minds (1996),http://dbpedia.org/resource/Hearts_and_Minds,Q9689255
+869,Fools Rush In (1997),http://dbpedia.org/resource/Fools_Rush_In,Q6879609
+870,Touch (1997),http://dbpedia.org/resource/Touch,Q51776
+871,Vegas Vacation (1997),http://dbpedia.org/resource/Vegas_Vacation,Q4800923
+872,Love Jones (1997),http://dbpedia.org/resource/Love_Jones,Q7791143
+873,Picture Perfect (1997),http://dbpedia.org/resource/Picture_Perfect,Q1566282
+874,Career Girls (1997),http://dbpedia.org/resource/Career_Girls,Q1267351
+875,She's So Lovely (1997),http://dbpedia.org/resource/She's_So_Lovely,Q8952591
+876,Money Talks (1997),http://dbpedia.org/resource/Money_Talks,Q1800702
+877,Excess Baggage (1997),http://dbpedia.org/resource/Excess_Baggage,Q5791186
+878,That Darn Cat! (1997),http://dbpedia.org/resource/That_Darn_Cat!,Q7815394
+879,"Peacemaker, The (1997)","http://dbpedia.org/resource/Peacemaker,_The",Q4118107
+880,Soul Food (1997),http://dbpedia.org/resource/Soul_Food,Q4233078
+881,Money Talks (1997),http://dbpedia.org/resource/Money_Talks,Q1800702
+882,Washington Square (1997),http://dbpedia.org/resource/Washington_Square,Q3379050
+883,Telling Lies in America (1997),http://dbpedia.org/resource/Telling_Lies_in_America,Q7541632
+884,Year of the Horse (1997),http://dbpedia.org/resource/Year_of_the_Horse,Q4422744
+885,Phantoms (1998),http://dbpedia.org/resource/Phantoms,Q1064702
+886,"Life Less Ordinary, A (1997)","http://dbpedia.org/resource/Life_Less_Ordinary,_A",Q6907205
+887,Eve's Bayou (1997),http://dbpedia.org/resource/Eve's_Bayou,Q583781
+888,One Night Stand (1997),http://dbpedia.org/resource/One_Night_Stand,Q6336136
+889,"Tango Lesson, The (1997)","http://dbpedia.org/resource/Tango_Lesson,_The",Q7887802
+890,Mortal Kombat: Annihilation (1997),http://dbpedia.org/resource/Mortal_Kombat:_Annihilation,Q9839540
+891,Bent (1997),http://dbpedia.org/resource/Bent,Q54681
+892,Flubber (1997),http://dbpedia.org/resource/Flubber,Q3647479
+893,For Richer or Poorer (1997),http://dbpedia.org/resource/For_Richer_or_Poorer,Q7134370
+894,Home Alone 3 (1997),http://dbpedia.org/resource/Home_Alone_3,Q12543
+895,Scream 2 (1997),http://dbpedia.org/resource/Scream_2,Q6215974
+896,"Sweet Hereafter, The (1997)","http://dbpedia.org/resource/Sweet_Hereafter,_The",Q9339145
+897,Time Tracers (1995),http://dbpedia.org/resource/Time_Tracers,Q9036234
+898,"Postman, The (1997)","http://dbpedia.org/resource/Postman,_The",Q1511347
+899,"Winter Guest, The (1997)","http://dbpedia.org/resource/Winter_Guest,_The",Q7274940
+900,Kundun (1997),http://dbpedia.org/resource/Kundun,Q8327223
+901,Mr. Magoo (1997),http://dbpedia.org/resource/Mr._Magoo,Q6696549
+902,"Big Lebowski, The (1998)","http://dbpedia.org/resource/Big_Lebowski,_The",Q5127268
+903,Afterglow (1997),http://dbpedia.org/resource/Afterglow,Q3367779
+904,Ma vie en rose (My Life in Pink) (1997),http://dbpedia.org/resource/Ma_vie_en_rose,Q9817924
+905,Great Expectations (1998),http://dbpedia.org/resource/Great_Expectations,Q530781
+906,Oscar & Lucinda (1997),http://dbpedia.org/resource/Oscar_&_Lucinda,Q7084846
+907,Vermin (1998),http://dbpedia.org/resource/Vermin,Q4660363
+908,Half Baked (1998),http://dbpedia.org/resource/Half_Baked,Q4497486
+909,Dangerous Beauty (1998),http://dbpedia.org/resource/Dangerous_Beauty,Q792273
+910,Nil By Mouth (1997),http://dbpedia.org/resource/Nil_By_Mouth,Q9442524
+911,Twilight (1998),http://dbpedia.org/resource/Twilight,Q9711147
+912,U.S. Marshalls (1998),http://dbpedia.org/resource/U.S._Marshalls,Q7579156
+913,Love and Death on Long Island (1997),http://dbpedia.org/resource/Love_and_Death_on_Long_Island,Q4661470
+914,Wild Things (1998),http://dbpedia.org/resource/Wild_Things,Q3567337
+915,Primary Colors (1998),http://dbpedia.org/resource/Primary_Colors,Q4768405
+916,Lost in Space (1998),http://dbpedia.org/resource/Lost_in_Space,Q5277029
+917,Mercury Rising (1998),http://dbpedia.org/resource/Mercury_Rising,Q3063475
+918,City of Angels (1998),http://dbpedia.org/resource/City_of_Angels,Q1671432
+919,"City of Lost Children, The (1995)","http://dbpedia.org/resource/City_of_Lost_Children,_The",Q5065888
+920,Two Bits (1995),http://dbpedia.org/resource/Two_Bits,Q5920818
+921,Farewell My Concubine (1993),http://dbpedia.org/resource/Farewell_My_Concubine,Q9118261
+922,Dead Man (1995),http://dbpedia.org/resource/Dead_Man,Q1091305
+923,Raise the Red Lantern (1991),http://dbpedia.org/resource/Raise_the_Red_Lantern,Q7924846
+924,White Squall (1996),http://dbpedia.org/resource/White_Squall,Q7361916
+925,Unforgettable (1996),http://dbpedia.org/resource/Unforgettable,Q8542813
+926,Down Periscope (1996),http://dbpedia.org/resource/Down_Periscope,Q9873056
+927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)","http://dbpedia.org/resource/Flower_of_My_Secret,_The",Q1927983
+928,"Craft, The (1996)","http://dbpedia.org/resource/Craft,_The",Q375046
+929,Harriet the Spy (1996),http://dbpedia.org/resource/Harriet_the_Spy,Q1249174
+930,Chain Reaction (1996),http://dbpedia.org/resource/Chain_Reaction,Q9039788
+931,"Island of Dr. Moreau, The (1996)","http://dbpedia.org/resource/Island_of_Dr._Moreau,_The",Q4512339
+932,First Kid (1996),http://dbpedia.org/resource/First_Kid,Q5513044
+933,"Funeral, The (1996)","http://dbpedia.org/resource/Funeral,_The",Q1884060
+934,"Preacher's Wife, The (1996)","http://dbpedia.org/resource/Preacher's_Wife,_The",Q4229490
+935,Paradise Road (1997),http://dbpedia.org/resource/Paradise_Road,Q8882394
+936,Brassed Off (1996),http://dbpedia.org/resource/Brassed_Off,Q1319047
+937,"Thousand Acres, A (1997)","http://dbpedia.org/resource/Thousand_Acres,_A",Q6896322
+938,"Smile Like Yours, A (1997)","http://dbpedia.org/resource/Smile_Like_Yours,_A",Q7296069
+939,Murder in the First (1995),http://dbpedia.org/resource/Murder_in_the_First,Q7936090
+940,Airheads (1994),http://dbpedia.org/resource/Airheads,Q6740862
+941,With Honors (1994),http://dbpedia.org/resource/With_Honors,Q2619334
+942,What's Love Got to Do with It (1993),http://dbpedia.org/resource/What's_Love_Got_to_Do_with_It,Q5870831
+943,Killing Zoe (1994),http://dbpedia.org/resource/Killing_Zoe,Q9555043
+944,Renaissance Man (1994),http://dbpedia.org/resource/Renaissance_Man,Q5924358
+945,Charade (1963),http://dbpedia.org/resource/Charade,Q314391
+946,"Fox and the Hound, The (1981)","http://dbpedia.org/resource/Fox_and_the_Hound,_The",Q4658293
+947,"Big Blue, The (Grand bleu, Le) (1988)","http://dbpedia.org/resource/Big_Blue,_The",Q2570124
+948,Booty Call (1997),http://dbpedia.org/resource/Booty_Call,Q7190243
+949,How to Make an American Quilt (1995),http://dbpedia.org/resource/How_to_Make_an_American_Quilt,Q246696
+950,Georgia (1995),http://dbpedia.org/resource/Georgia,Q3252142
+951,"Indian in the Cupboard, The (1995)","http://dbpedia.org/resource/Indian_in_the_Cupboard,_The",Q6286789
+952,Blue in the Face (1995),http://dbpedia.org/resource/Blue_in_the_Face,Q9808340
+953,Unstrung Heroes (1995),http://dbpedia.org/resource/Unstrung_Heroes,Q8888979
+954,Unzipped (1995),http://dbpedia.org/resource/Unzipped,Q5315351
+955,Before Sunrise (1995),http://dbpedia.org/resource/Before_Sunrise,Q150928
+956,Nobody's Fool (1994),http://dbpedia.org/resource/Nobody's_Fool,Q3079550
+957,Pushing Hands (1992),http://dbpedia.org/resource/Pushing_Hands,Q3758917
+958,To Live (Huozhe) (1994),http://dbpedia.org/resource/To_Live,Q2356617
+959,Dazed and Confused (1993),http://dbpedia.org/resource/Dazed_and_Confused,Q2991656
+960,Naked (1993),http://dbpedia.org/resource/Naked,Q7419349
+961,Orlando (1993),http://dbpedia.org/resource/Orlando,Q2457322
+962,Ruby in Paradise (1993),http://dbpedia.org/resource/Ruby_in_Paradise,Q7418041
+963,Some Folks Call It a Sling Blade (1993),http://dbpedia.org/resource/Some_Folks_Call_It_a_Sling_Blade,Q9671789
+964,"Month by the Lake, A (1995)","http://dbpedia.org/resource/Month_by_the_Lake,_A",Q87349
+965,Funny Face (1957),http://dbpedia.org/resource/Funny_Face,Q1117993
+966,"Affair to Remember, An (1957)","http://dbpedia.org/resource/Affair_to_Remember,_An",Q5003083
+967,Little Lord Fauntleroy (1936),http://dbpedia.org/resource/Little_Lord_Fauntleroy,Q2765903
+968,"Inspector General, The (1949)","http://dbpedia.org/resource/Inspector_General,_The",Q2428317
+969,Winnie the Pooh and the Blustery Day (1968),http://dbpedia.org/resource/Winnie_the_Pooh_and_the_Blustery_Day,Q7490657
+970,Hear My Song (1991),http://dbpedia.org/resource/Hear_My_Song,Q1274837
+971,Mediterraneo (1991),http://dbpedia.org/resource/Mediterraneo,Q5318665
+972,Passion Fish (1992),http://dbpedia.org/resource/Passion_Fish,Q3141140
+973,Grateful Dead (1995),http://dbpedia.org/resource/Grateful_Dead,Q6941243
+974,Eye for an Eye (1996),http://dbpedia.org/resource/Eye_for_an_Eye,Q2753739
+975,Fear (1996),http://dbpedia.org/resource/Fear,Q5931400
+976,Solo (1996),http://dbpedia.org/resource/Solo,Q3530792
+977,"Substitute, The (1996)","http://dbpedia.org/resource/Substitute,_The",Q3520158
+978,Heaven's Prisoners (1996),http://dbpedia.org/resource/Heaven's_Prisoners,Q7768950
+979,"Trigger Effect, The (1996)","http://dbpedia.org/resource/Trigger_Effect,_The",Q2073238
+980,Mother Night (1996),http://dbpedia.org/resource/Mother_Night,Q5695509
+981,Dangerous Ground (1997),http://dbpedia.org/resource/Dangerous_Ground,Q4365713
+982,Maximum Risk (1996),http://dbpedia.org/resource/Maximum_Risk,Q7111888
+983,"Rich Man's Wife, The (1996)","http://dbpedia.org/resource/Rich_Man's_Wife,_The",Q8529575
+984,Shadow Conspiracy (1997),http://dbpedia.org/resource/Shadow_Conspiracy,Q3680699
+985,Blood & Wine (1997),http://dbpedia.org/resource/Blood_&_Wine,Q8630782
+986,Turbulence (1997),http://dbpedia.org/resource/Turbulence,Q6981976
+987,Underworld (1997),http://dbpedia.org/resource/Underworld,Q9636049
+988,"Beautician and the Beast, The (1997)","http://dbpedia.org/resource/Beautician_and_the_Beast,_The",Q6930959
+989,Cats Don't Dance (1997),http://dbpedia.org/resource/Cats_Don't_Dance,Q9501403
+990,Anna Karenina (1997),http://dbpedia.org/resource/Anna_Karenina,Q8172366
+991,Keys to Tulsa (1997),http://dbpedia.org/resource/Keys_to_Tulsa,Q1850959
+992,Head Above Water (1996),http://dbpedia.org/resource/Head_Above_Water,Q4472941
+993,Hercules (1997),http://dbpedia.org/resource/Hercules,Q3857176
+994,"Last Time I Committed Suicide, The (1997)","http://dbpedia.org/resource/Last_Time_I_Committed_Suicide,_The",Q4563354
+995,"Kiss Me, Guido (1997)","http://dbpedia.org/resource/Kiss_Me,_Guido",Q5454983
+996,"Big Green, The (1995)","http://dbpedia.org/resource/Big_Green,_The",Q4015673
+997,Stuart Saves His Family (1995),http://dbpedia.org/resource/Stuart_Saves_His_Family,Q4961856
+998,Cabin Boy (1994),http://dbpedia.org/resource/Cabin_Boy,Q1385078
+999,Clean Slate (1994),http://dbpedia.org/resource/Clean_Slate,Q7797630
+1000,Lightning Jack (1994),http://dbpedia.org/resource/Lightning_Jack,Q2904154
+1001,"Stupids, The (1996)","http://dbpedia.org/resource/Stupids,_The",Q7392935
+1002,"Pest, The (1997)","http://dbpedia.org/resource/Pest,_The",Q9614069
+1003,That Darn Cat! (1997),http://dbpedia.org/resource/That_Darn_Cat!,Q7815394
+1004,Geronimo: An American Legend (1993),http://dbpedia.org/resource/Geronimo:_An_American_Legend,Q6242432
+1005,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)","http://dbpedia.org/resource/Double_vie_de_Véronique,_La",Q4956775
+1006,Until the End of the World (Bis ans Ende der Welt) (1991),http://dbpedia.org/resource/Until_the_End_of_the_World,Q623546
+1007,Waiting for Guffman (1996),http://dbpedia.org/resource/Waiting_for_Guffman,Q9575640
+1008,I Shot Andy Warhol (1996),http://dbpedia.org/resource/I_Shot_Andy_Warhol,Q5325167
+1009,Stealing Beauty (1996),http://dbpedia.org/resource/Stealing_Beauty,Q9160612
+1010,Basquiat (1996),http://dbpedia.org/resource/Basquiat,Q933239
+1011,2 Days in the Valley (1996),http://dbpedia.org/resource/2_Days_in_the_Valley,Q8510022
+1012,Private Parts (1997),http://dbpedia.org/resource/Private_Parts,Q9986152
+1013,Anaconda (1997),http://dbpedia.org/resource/Anaconda,Q9412256
+1014,Romy and Michele's High School Reunion (1997),http://dbpedia.org/resource/Romy_and_Michele's_High_School_Reunion,Q5799098
+1015,Shiloh (1997),http://dbpedia.org/resource/Shiloh,Q4508395
+1016,Con Air (1997),http://dbpedia.org/resource/Con_Air,Q9246871
+1017,Trees Lounge (1996),http://dbpedia.org/resource/Trees_Lounge,Q6932571
+1018,Tie Me Up! Tie Me Down! (1990),http://dbpedia.org/resource/Tie_Me_Up!_Tie_Me_Down!,Q5277430
+1019,"Die xue shuang xiong (Killer, The) (1989)",http://dbpedia.org/resource/Die_xue_shuang_xiong,Q3551076
+1020,Gaslight (1944),http://dbpedia.org/resource/Gaslight,Q3254612
+1021,8 1/2 (1963),http://dbpedia.org/resource/8_1/2,Q5067276
+1022,"Fast, Cheap & Out of Control (1997)","http://dbpedia.org/resource/Fast,_Cheap_&_Out_of_Control",Q6855534
+1023,Fathers' Day (1997),http://dbpedia.org/resource/Fathers'_Day,Q6299784
+1024,Mrs. Dalloway (1997),http://dbpedia.org/resource/Mrs._Dalloway,Q3232248
+1025,Fire Down Below (1997),http://dbpedia.org/resource/Fire_Down_Below,Q327891
+1026,"Lay of the Land, The (1997)","http://dbpedia.org/resource/Lay_of_the_Land,_The",Q7864899
+1027,"Shooter, The (1995)","http://dbpedia.org/resource/Shooter,_The",Q5019081
+1028,Grumpier Old Men (1995),http://dbpedia.org/resource/Grumpier_Old_Men,Q7726705
+1029,Jury Duty (1995),http://dbpedia.org/resource/Jury_Duty,Q8655479
+1030,"Beverly Hillbillies, The (1993)","http://dbpedia.org/resource/Beverly_Hillbillies,_The",Q5051376
+1031,Lassie (1994),http://dbpedia.org/resource/Lassie,Q6789540
+1032,Little Big League (1994),http://dbpedia.org/resource/Little_Big_League,Q6963341
+1033,Homeward Bound II: Lost in San Francisco (1996),http://dbpedia.org/resource/Homeward_Bound_II:_Lost_in_San_Francisco,Q4809117
+1034,"Quest, The (1996)","http://dbpedia.org/resource/Quest,_The",Q8036939
+1035,Cool Runnings (1993),http://dbpedia.org/resource/Cool_Runnings,Q4427235
+1036,Drop Dead Fred (1991),http://dbpedia.org/resource/Drop_Dead_Fred,Q3120280
+1037,Grease 2 (1982),http://dbpedia.org/resource/Grease_2,Q2403992
+1038,Switchback (1997),http://dbpedia.org/resource/Switchback,Q7762277
+1039,Hamlet (1996),http://dbpedia.org/resource/Hamlet,Q5253786
+1040,Two if by Sea (1996),http://dbpedia.org/resource/Two_if_by_Sea,Q3301169
+1041,Forget Paris (1995),http://dbpedia.org/resource/Forget_Paris,Q5765194
+1042,Just Cause (1995),http://dbpedia.org/resource/Just_Cause,Q320399
+1043,Rent-a-Kid (1995),http://dbpedia.org/resource/Rent-a-Kid,Q5243673
+1044,"Paper, The (1994)","http://dbpedia.org/resource/Paper,_The",Q3014294
+1045,Fearless (1993),http://dbpedia.org/resource/Fearless,Q9152032
+1046,Malice (1993),http://dbpedia.org/resource/Malice,Q4569271
+1047,Multiplicity (1996),http://dbpedia.org/resource/Multiplicity,Q5304210
+1048,She's the One (1996),http://dbpedia.org/resource/She's_the_One,Q5069224
+1049,House Arrest (1996),http://dbpedia.org/resource/House_Arrest,Q2515980
+1050,"Ghost and Mrs. Muir, The (1947)","http://dbpedia.org/resource/Ghost_and_Mrs._Muir,_The",Q9773120
+1051,"Associate, The (1996)","http://dbpedia.org/resource/Associate,_The",Q5656627
+1052,Dracula: Dead and Loving It (1995),http://dbpedia.org/resource/Dracula:_Dead_and_Loving_It,Q4721281
+1053,Now and Then (1995),http://dbpedia.org/resource/Now_and_Then,Q9274142
+1054,Mr. Wrong (1996),http://dbpedia.org/resource/Mr._Wrong,Q8895173
+1055,"Simple Twist of Fate, A (1994)","http://dbpedia.org/resource/Simple_Twist_of_Fate,_A",Q2783690
+1056,Cronos (1992),http://dbpedia.org/resource/Cronos,Q2353774
+1057,"Pallbearer, The (1996)","http://dbpedia.org/resource/Pallbearer,_The",Q9526163
+1058,"War, The (1994)","http://dbpedia.org/resource/War,_The",Q4313153
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),http://dbpedia.org/resource/Don't_Be_a_Menace_to_South_Central_While_Drinking_Your_Juice_in_the_Hood,Q1581959
+1060,"Adventures of Pinocchio, The (1996)","http://dbpedia.org/resource/Adventures_of_Pinocchio,_The",Q2057420
+1061,"Evening Star, The (1996)","http://dbpedia.org/resource/Evening_Star,_The",Q2458296
+1062,Four Days in September (1997),http://dbpedia.org/resource/Four_Days_in_September,Q7717695
+1063,"Little Princess, A (1995)","http://dbpedia.org/resource/Little_Princess,_A",Q3217636
+1064,Crossfire (1947),http://dbpedia.org/resource/Crossfire,Q4640183
+1065,Koyaanisqatsi (1983),http://dbpedia.org/resource/Koyaanisqatsi,Q1005068
+1066,Balto (1995),http://dbpedia.org/resource/Balto,Q8992400
+1067,Bottle Rocket (1996),http://dbpedia.org/resource/Bottle_Rocket,Q3955890
+1068,"Star Maker, The (Uomo delle stelle, L') (1995)","http://dbpedia.org/resource/Star_Maker,_The",Q7328340
+1069,Amateur (1994),http://dbpedia.org/resource/Amateur,Q1513077
+1070,Living in Oblivion (1995),http://dbpedia.org/resource/Living_in_Oblivion,Q2697329
+1071,Party Girl (1995),http://dbpedia.org/resource/Party_Girl,Q901354
+1072,"Pyromaniac's Love Story, A (1995)","http://dbpedia.org/resource/Pyromaniac's_Love_Story,_A",Q2022839
+1073,Shallow Grave (1994),http://dbpedia.org/resource/Shallow_Grave,Q1843479
+1074,Reality Bites (1994),http://dbpedia.org/resource/Reality_Bites,Q8871067
+1075,"Man of No Importance, A (1994)","http://dbpedia.org/resource/Man_of_No_Importance,_A",Q1286436
+1076,"Pagemaster, The (1994)","http://dbpedia.org/resource/Pagemaster,_The",Q5077137
+1077,Love and a .45 (1994),http://dbpedia.org/resource/Love_and_a_.45,Q3169871
+1078,Oliver & Company (1988),http://dbpedia.org/resource/Oliver_&_Company,Q9977448
+1079,Joe's Apartment (1996),http://dbpedia.org/resource/Joe's_Apartment,Q592511
+1080,Celestial Clockwork (1994),http://dbpedia.org/resource/Celestial_Clockwork,Q2238989
+1081,Curdled (1996),http://dbpedia.org/resource/Curdled,Q6425682
+1082,Female Perversions (1996),http://dbpedia.org/resource/Female_Perversions,Q5899883
+1083,Albino Alligator (1996),http://dbpedia.org/resource/Albino_Alligator,Q4973103
+1084,Anne Frank Remembered (1995),http://dbpedia.org/resource/Anne_Frank_Remembered,Q1250282
+1085,Carried Away (1996),http://dbpedia.org/resource/Carried_Away,Q452119
+1086,It's My Party (1995),http://dbpedia.org/resource/It's_My_Party,Q296182
+1087,Bloodsport 2 (1995),http://dbpedia.org/resource/Bloodsport_2,Q8902645
+1088,Double Team (1997),http://dbpedia.org/resource/Double_Team,Q412944
+1089,Speed 2: Cruise Control (1997),http://dbpedia.org/resource/Speed_2:_Cruise_Control,Q728201
+1090,Sliver (1993),http://dbpedia.org/resource/Sliver,Q1668986
+1091,Pete's Dragon (1977),http://dbpedia.org/resource/Pete's_Dragon,Q5028779
+1092,Dear God (1996),http://dbpedia.org/resource/Dear_God,Q5686537
+1093,Live Nude Girls (1995),http://dbpedia.org/resource/Live_Nude_Girls,Q5129914
+1094,"Thin Line Between Love and Hate, A (1996)","http://dbpedia.org/resource/Thin_Line_Between_Love_and_Hate,_A",Q6057234
+1095,High School High (1996),http://dbpedia.org/resource/High_School_High,Q9475788
+1096,Commandments (1997),http://dbpedia.org/resource/Commandments,Q3309276
+1097,"Hate (Haine, La) (1995)",http://dbpedia.org/resource/Hate,Q7475942
+1098,Flirting With Disaster (1996),http://dbpedia.org/resource/Flirting_With_Disaster,Q6990131
+1099,"Red Firecracker, Green Firecracker (1994)","http://dbpedia.org/resource/Red_Firecracker,_Green_Firecracker",Q202275
+1100,What Happened Was... (1994),http://dbpedia.org/resource/What_Happened_Was...,Q4624079
+1101,Six Degrees of Separation (1993),http://dbpedia.org/resource/Six_Degrees_of_Separation,Q4270975
+1102,Two Much (1996),http://dbpedia.org/resource/Two_Much,Q5427733
+1103,Trust (1990),http://dbpedia.org/resource/Trust,Q3929276
+1104,C'est arrivé près de chez vous (1992),http://dbpedia.org/resource/C'est_arrivé_près_de_chez_vous,Q5956506
+1105,Firestorm (1998),http://dbpedia.org/resource/Firestorm,Q8032652
+1106,"Newton Boys, The (1998)","http://dbpedia.org/resource/Newton_Boys,_The",Q6028990
+1107,Beyond Rangoon (1995),http://dbpedia.org/resource/Beyond_Rangoon,Q2335175
+1108,Feast of July (1995),http://dbpedia.org/resource/Feast_of_July,Q4077658
+1109,Death and the Maiden (1994),http://dbpedia.org/resource/Death_and_the_Maiden,Q5204025
+1110,Tank Girl (1995),http://dbpedia.org/resource/Tank_Girl,Q3930336
+1111,Double Happiness (1994),http://dbpedia.org/resource/Double_Happiness,Q8544937
+1112,Cobb (1994),http://dbpedia.org/resource/Cobb,Q4831519
+1113,Mrs. Parker and the Vicious Circle (1994),http://dbpedia.org/resource/Mrs._Parker_and_the_Vicious_Circle,Q1035518
+1114,Faithful (1996),http://dbpedia.org/resource/Faithful,Q205988
+1115,Twelfth Night (1996),http://dbpedia.org/resource/Twelfth_Night,Q3246479
+1116,"Mark of Zorro, The (1940)","http://dbpedia.org/resource/Mark_of_Zorro,_The",Q3507388
+1117,Surviving Picasso (1996),http://dbpedia.org/resource/Surviving_Picasso,Q161543
+1118,Up in Smoke (1978),http://dbpedia.org/resource/Up_in_Smoke,Q4942978
+1119,Some Kind of Wonderful (1987),http://dbpedia.org/resource/Some_Kind_of_Wonderful,Q6200714
+1120,I'm Not Rappaport (1996),http://dbpedia.org/resource/I'm_Not_Rappaport,Q9066630
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)","http://dbpedia.org/resource/Umbrellas_of_Cherbourg,_The",Q2898816
+1122,They Made Me a Criminal (1939),http://dbpedia.org/resource/They_Made_Me_a_Criminal,Q6112763
+1123,"Last Time I Saw Paris, The (1954)","http://dbpedia.org/resource/Last_Time_I_Saw_Paris,_The",Q5997227
+1124,"Farewell to Arms, A (1932)","http://dbpedia.org/resource/Farewell_to_Arms,_A",Q2797703
+1125,"Innocents, The (1961)","http://dbpedia.org/resource/Innocents,_The",Q2945281
+1126,"Old Man and the Sea, The (1958)","http://dbpedia.org/resource/Old_Man_and_the_Sea,_The",Q851205
+1127,"Truman Show, The (1998)","http://dbpedia.org/resource/Truman_Show,_The",Q4325128
+1128,Heidi Fleiss: Hollywood Madam (1995) ,http://dbpedia.org/resource/Heidi_Fleiss:_Hollywood_Madam,Q9648599
+1129,Chungking Express (1994),http://dbpedia.org/resource/Chungking_Express,Q9182966
+1130,Jupiter's Wife (1994),http://dbpedia.org/resource/Jupiter's_Wife,Q9765300
+1131,Safe (1995),http://dbpedia.org/resource/Safe,Q6929183
+1132,Feeling Minnesota (1996),http://dbpedia.org/resource/Feeling_Minnesota,Q4409737
+1133,Escape to Witch Mountain (1975),http://dbpedia.org/resource/Escape_to_Witch_Mountain,Q6795096
+1134,Get on the Bus (1996),http://dbpedia.org/resource/Get_on_the_Bus,Q9282956
+1135,"Doors, The (1991)","http://dbpedia.org/resource/Doors,_The",Q1107431
+1136,Ghosts of Mississippi (1996),http://dbpedia.org/resource/Ghosts_of_Mississippi,Q8966997
+1137,Beautiful Thing (1996),http://dbpedia.org/resource/Beautiful_Thing,Q6025267
+1138,Best Men (1997),http://dbpedia.org/resource/Best_Men,Q8861166
+1139,Hackers (1995),http://dbpedia.org/resource/Hackers,Q5606817
+1140,"Road to Wellville, The (1994)","http://dbpedia.org/resource/Road_to_Wellville,_The",Q103099
+1141,"War Room, The (1993)","http://dbpedia.org/resource/War_Room,_The",Q1735978
+1142,When We Were Kings (1996),http://dbpedia.org/resource/When_We_Were_Kings,Q7203016
+1143,Hard Eight (1996),http://dbpedia.org/resource/Hard_Eight,Q2724036
+1144,"Quiet Room, The (1996)","http://dbpedia.org/resource/Quiet_Room,_The",Q7567226
+1145,Blue Chips (1994),http://dbpedia.org/resource/Blue_Chips,Q1241971
+1146,Calendar Girl (1993),http://dbpedia.org/resource/Calendar_Girl,Q197427
+1147,My Family (1995),http://dbpedia.org/resource/My_Family,Q1842142
+1148,Tom & Viv (1994),http://dbpedia.org/resource/Tom_&_Viv,Q1036528
+1149,Walkabout (1971),http://dbpedia.org/resource/Walkabout,Q2935082
+1150,Last Dance (1996),http://dbpedia.org/resource/Last_Dance,Q3288195
+1151,Original Gangstas (1996),http://dbpedia.org/resource/Original_Gangstas,Q3709279
+1152,In Love and War (1996),http://dbpedia.org/resource/In_Love_and_War,Q9579466
+1153,Backbeat (1993),http://dbpedia.org/resource/Backbeat,Q6586347
+1154,Alphaville (1965),http://dbpedia.org/resource/Alphaville,Q334356
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",http://dbpedia.org/resource/Rendezvous_in_Paris,Q8474674
+1156,Cyclo (1995),http://dbpedia.org/resource/Cyclo,Q2756525
+1157,"Relic, The (1997)","http://dbpedia.org/resource/Relic,_The",Q7926734
+1158,"Fille seule, La (A Single Girl) (1995)","http://dbpedia.org/resource/Fille_seule,_La",Q6388317
+1159,Stalker (1979),http://dbpedia.org/resource/Stalker,Q4607899
+1160,Love! Valour! Compassion! (1997),http://dbpedia.org/resource/Love!_Valour!_Compassion!,Q7925424
+1161,Palookaville (1996),http://dbpedia.org/resource/Palookaville,Q3728220
+1162,Phat Beach (1996),http://dbpedia.org/resource/Phat_Beach,Q95783
+1163,"Portrait of a Lady, The (1996)","http://dbpedia.org/resource/Portrait_of_a_Lady,_The",Q3809452
+1164,Zeus and Roxanne (1997),http://dbpedia.org/resource/Zeus_and_Roxanne,Q3315476
+1165,Big Bully (1996),http://dbpedia.org/resource/Big_Bully,Q8818399
+1166,Love & Human Remains (1993),http://dbpedia.org/resource/Love_&_Human_Remains,Q3806442
+1167,"Sum of Us, The (1994)","http://dbpedia.org/resource/Sum_of_Us,_The",Q3940025
+1168,Little Buddha (1993),http://dbpedia.org/resource/Little_Buddha,Q2297
+1169,Fresh (1994),http://dbpedia.org/resource/Fresh,Q6911645
+1170,Spanking the Monkey (1994),http://dbpedia.org/resource/Spanking_the_Monkey,Q9041119
+1171,Wild Reeds (1994),http://dbpedia.org/resource/Wild_Reeds,Q9187364
+1172,"Women, The (1939)","http://dbpedia.org/resource/Women,_The",Q4771250
+1173,Bliss (1997),http://dbpedia.org/resource/Bliss,Q1528369
+1174,Caught (1996),http://dbpedia.org/resource/Caught,Q7165337
+1175,Hugo Pool (1997),http://dbpedia.org/resource/Hugo_Pool,Q3457089
+1176,Welcome To Sarajevo (1997),http://dbpedia.org/resource/Welcome_To_Sarajevo,Q3119461
+1177,Dunston Checks In (1996),http://dbpedia.org/resource/Dunston_Checks_In,Q6342437
+1178,Major Payne (1994),http://dbpedia.org/resource/Major_Payne,Q6638101
+1179,Man of the House (1995),http://dbpedia.org/resource/Man_of_the_House,Q771320
+1180,I Love Trouble (1994),http://dbpedia.org/resource/I_Love_Trouble,Q7858547
+1181,"Low Down Dirty Shame, A (1994)","http://dbpedia.org/resource/Low_Down_Dirty_Shame,_A",Q8939860
+1182,Cops and Robbersons (1994),http://dbpedia.org/resource/Cops_and_Robbersons,Q2304930
+1183,"Cowboy Way, The (1994)","http://dbpedia.org/resource/Cowboy_Way,_The",Q7145218
+1184,"Endless Summer 2, The (1994)","http://dbpedia.org/resource/Endless_Summer_2,_The",Q285168
+1185,In the Army Now (1994),http://dbpedia.org/resource/In_the_Army_Now,Q5437003
+1186,"Inkwell, The (1994)","http://dbpedia.org/resource/Inkwell,_The",Q8051784
+1187,Switchblade Sisters (1975),http://dbpedia.org/resource/Switchblade_Sisters,Q7015656
+1188,Young Guns II (1990),http://dbpedia.org/resource/Young_Guns_II,Q6010144
+1189,Prefontaine (1997),http://dbpedia.org/resource/Prefontaine,Q7215705
+1190,That Old Feeling (1997),http://dbpedia.org/resource/That_Old_Feeling,Q4023622
+1191,"Letter From Death Row, A (1998)","http://dbpedia.org/resource/Letter_From_Death_Row,_A",Q2964349
+1192,"Boys of St. Vincent, The (1993)","http://dbpedia.org/resource/Boys_of_St._Vincent,_The",Q8700132
+1193,Before the Rain (Pred dozhdot) (1994),http://dbpedia.org/resource/Before_the_Rain,Q9439925
+1194,Once Were Warriors (1994),http://dbpedia.org/resource/Once_Were_Warriors,Q9787299
+1195,Strawberry and Chocolate (Fresa y chocolate) (1993),http://dbpedia.org/resource/Strawberry_and_Chocolate,Q1796478
+1196,"Savage Nights (Nuits fauves, Les) (1992)",http://dbpedia.org/resource/Savage_Nights,Q4175974
+1197,"Family Thing, A (1996)","http://dbpedia.org/resource/Family_Thing,_A",Q559222
+1198,Purple Noon (1960),http://dbpedia.org/resource/Purple_Noon,Q3445564
+1199,Cemetery Man (Dellamorte Dellamore) (1994),http://dbpedia.org/resource/Cemetery_Man,Q7565840
+1200,Kim (1950),http://dbpedia.org/resource/Kim,Q1413299
+1201,Marlene Dietrich: Shadow and Light (1996) ,http://dbpedia.org/resource/Marlene_Dietrich:_Shadow_and_Light,Q7219247
+1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)","http://dbpedia.org/resource/Maybe,_Maybe_Not",Q8406206
+1203,Top Hat (1935),http://dbpedia.org/resource/Top_Hat,Q1515500
+1204,To Be or Not to Be (1942),http://dbpedia.org/resource/To_Be_or_Not_to_Be,Q9159023
+1205,"Secret Agent, The (1996)","http://dbpedia.org/resource/Secret_Agent,_The",Q2793488
+1206,Amos & Andrew (1993),http://dbpedia.org/resource/Amos_&_Andrew,Q1745
+1207,Jade (1995),http://dbpedia.org/resource/Jade,Q1339888
+1208,Kiss of Death (1995),http://dbpedia.org/resource/Kiss_of_Death,Q2359611
+1209,Mixed Nuts (1994),http://dbpedia.org/resource/Mixed_Nuts,Q6129519
+1210,Virtuosity (1995),http://dbpedia.org/resource/Virtuosity,Q2595219
+1211,Blue Sky (1994),http://dbpedia.org/resource/Blue_Sky,Q2892457
+1212,Flesh and Bone (1993),http://dbpedia.org/resource/Flesh_and_Bone,Q3832576
+1213,Guilty as Sin (1993),http://dbpedia.org/resource/Guilty_as_Sin,Q7503972
+1214,In the Realm of the Senses (Ai no corrida) (1976),http://dbpedia.org/resource/In_the_Realm_of_the_Senses,Q3705976
+1215,Barb Wire (1996),http://dbpedia.org/resource/Barb_Wire,Q5558912
+1216,Kissed (1996),http://dbpedia.org/resource/Kissed,Q6993008
+1217,Assassins (1995),http://dbpedia.org/resource/Assassins,Q1523886
+1218,Friday (1995),http://dbpedia.org/resource/Friday,Q3472023
+1219,"Goofy Movie, A (1995)","http://dbpedia.org/resource/Goofy_Movie,_A",Q4418405
+1220,Higher Learning (1995),http://dbpedia.org/resource/Higher_Learning,Q970169
+1221,When a Man Loves a Woman (1994),http://dbpedia.org/resource/When_a_Man_Loves_a_Woman,Q4154537
+1222,Judgment Night (1993),http://dbpedia.org/resource/Judgment_Night,Q3370452
+1223,King of the Hill (1993),http://dbpedia.org/resource/King_of_the_Hill,Q6193428
+1224,"Scout, The (1994)","http://dbpedia.org/resource/Scout,_The",Q6681576
+1225,Angus (1995),http://dbpedia.org/resource/Angus,Q8933646
+1226,Night Falls on Manhattan (1997),http://dbpedia.org/resource/Night_Falls_on_Manhattan,Q7430776
+1227,"Awfully Big Adventure, An (1995)","http://dbpedia.org/resource/Awfully_Big_Adventure,_An",Q1101319
+1228,Under Siege 2: Dark Territory (1995),http://dbpedia.org/resource/Under_Siege_2:_Dark_Territory,Q253008
+1229,Poison Ivy II (1995),http://dbpedia.org/resource/Poison_Ivy_II,Q6120631
+1230,Ready to Wear (Pret-A-Porter) (1994),http://dbpedia.org/resource/Ready_to_Wear,Q7271957
+1231,Marked for Death (1990),http://dbpedia.org/resource/Marked_for_Death,Q4101192
+1232,Madonna: Truth or Dare (1991),http://dbpedia.org/resource/Madonna:_Truth_or_Dare,Q1179792
+1233,Nénette et Boni (1996),http://dbpedia.org/resource/Nénette_et_Boni,Q4182353
+1234,Chairman of the Board (1998),http://dbpedia.org/resource/Chairman_of_the_Board,Q4194675
+1235,"Big Bang Theory, The (1994)","http://dbpedia.org/resource/Big_Bang_Theory,_The",Q2152149
+1236,"Other Voices, Other Rooms (1997)","http://dbpedia.org/resource/Other_Voices,_Other_Rooms",Q5313312
+1237,Twisted (1996),http://dbpedia.org/resource/Twisted,Q3996387
+1238,Full Speed (1996),http://dbpedia.org/resource/Full_Speed,Q2947867
+1239,Cutthroat Island (1995),http://dbpedia.org/resource/Cutthroat_Island,Q7827122
+1240,Ghost in the Shell (Kokaku kidotai) (1995),http://dbpedia.org/resource/Ghost_in_the_Shell,Q7856787
+1241,"Van, The (1996)","http://dbpedia.org/resource/Van,_The",Q7144553
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)","http://dbpedia.org/resource/Old_Lady_Who_Walked_in_the_Sea,_The",Q5442692
+1243,Night Flier (1997),http://dbpedia.org/resource/Night_Flier,Q5357702
+1244,Metro (1997),http://dbpedia.org/resource/Metro,Q6764397
+1245,Gridlock'd (1997),http://dbpedia.org/resource/Gridlock'd,Q6911300
+1246,Bushwhacked (1995),http://dbpedia.org/resource/Bushwhacked,Q8203182
+1247,Bad Girls (1994),http://dbpedia.org/resource/Bad_Girls,Q5914145
+1248,Blink (1994),http://dbpedia.org/resource/Blink,Q6001432
+1249,For Love or Money (1993),http://dbpedia.org/resource/For_Love_or_Money,Q7439211
+1250,Best of the Best 3: No Turning Back (1995),http://dbpedia.org/resource/Best_of_the_Best_3:_No_Turning_Back,Q7852331
+1251,A Chef in Love (1996),http://dbpedia.org/resource/A_Chef_in_Love,Q7769965
+1252,"Contempt (Mépris, Le) (1963)",http://dbpedia.org/resource/Contempt,Q9652876
+1253,"Tie That Binds, The (1995)","http://dbpedia.org/resource/Tie_That_Binds,_The",Q8729041
+1254,Gone Fishin' (1997),http://dbpedia.org/resource/Gone_Fishin',Q5379889
+1255,Broken English (1996),http://dbpedia.org/resource/Broken_English,Q9358106
+1256,"Designated Mourner, The (1997)","http://dbpedia.org/resource/Designated_Mourner,_The",Q8011131
+1257,"Designated Mourner, The (1997)","http://dbpedia.org/resource/Designated_Mourner,_The",Q8011131
+1258,Trial and Error (1997),http://dbpedia.org/resource/Trial_and_Error,Q164013
+1259,Pie in the Sky (1995),http://dbpedia.org/resource/Pie_in_the_Sky,Q3869954
+1260,Total Eclipse (1995),http://dbpedia.org/resource/Total_Eclipse,Q365917
+1261,"Run of the Country, The (1995)","http://dbpedia.org/resource/Run_of_the_Country,_The",Q9961223
+1262,Walking and Talking (1996),http://dbpedia.org/resource/Walking_and_Talking,Q8679707
+1263,Foxfire (1996),http://dbpedia.org/resource/Foxfire,Q2387220
+1264,Nothing to Lose (1994),http://dbpedia.org/resource/Nothing_to_Lose,Q5680353
+1265,Star Maps (1997),http://dbpedia.org/resource/Star_Maps,Q371805
+1266,Bread and Chocolate (Pane e cioccolata) (1973),http://dbpedia.org/resource/Bread_and_Chocolate,Q6212639
+1267,Clockers (1995),http://dbpedia.org/resource/Clockers,Q9775306
+1268,Bitter Moon (1992),http://dbpedia.org/resource/Bitter_Moon,Q539652
+1269,Love in the Afternoon (1957),http://dbpedia.org/resource/Love_in_the_Afternoon,Q9445513
+1270,Life with Mikey (1993),http://dbpedia.org/resource/Life_with_Mikey,Q9713665
+1271,North (1994),http://dbpedia.org/resource/North,Q1589604
+1272,Talking About Sex (1994),http://dbpedia.org/resource/Talking_About_Sex,Q9866128
+1273,Color of Night (1994),http://dbpedia.org/resource/Color_of_Night,Q8223255
+1274,Robocop 3 (1993),http://dbpedia.org/resource/Robocop_3,Q3945545
+1275,Killer (Bulletproof Heart) (1994),http://dbpedia.org/resource/Killer,Q5872635
+1276,Sunset Park (1996),http://dbpedia.org/resource/Sunset_Park,Q8608703
+1277,Set It Off (1996),http://dbpedia.org/resource/Set_It_Off,Q5494006
+1278,Selena (1997),http://dbpedia.org/resource/Selena,Q6322975
+1279,Wild America (1997),http://dbpedia.org/resource/Wild_America,Q9841410
+1280,Gang Related (1997),http://dbpedia.org/resource/Gang_Related,Q1100243
+1281,Manny & Lo (1996),http://dbpedia.org/resource/Manny_&_Lo,Q5900320
+1282,"Grass Harp, The (1995)","http://dbpedia.org/resource/Grass_Harp,_The",Q1352240
+1283,Out to Sea (1997),http://dbpedia.org/resource/Out_to_Sea,Q5249677
+1284,Before and After (1996),http://dbpedia.org/resource/Before_and_After,Q9564683
+1285,Princess Caraboo (1994),http://dbpedia.org/resource/Princess_Caraboo,Q3305600
+1286,Shall We Dance? (1937),http://dbpedia.org/resource/Shall_We_Dance?,Q8866932
+1287,Ed (1996),http://dbpedia.org/resource/Ed,Q6961828
+1288,Denise Calls Up (1995),http://dbpedia.org/resource/Denise_Calls_Up,Q8121693
+1289,Jack and Sarah (1995),http://dbpedia.org/resource/Jack_and_Sarah,Q1026983
+1290,Country Life (1994),http://dbpedia.org/resource/Country_Life,Q5662720
+1291,Celtic Pride (1996),http://dbpedia.org/resource/Celtic_Pride,Q3589875
+1292,"Simple Wish, A (1997)","http://dbpedia.org/resource/Simple_Wish,_A",Q7201006
+1293,Star Kid (1997),http://dbpedia.org/resource/Star_Kid,Q9535418
+1294,Ayn Rand: A Sense of Life (1997),http://dbpedia.org/resource/Ayn_Rand:_A_Sense_of_Life,Q6180144
+1295,Kicked in the Head (1997),http://dbpedia.org/resource/Kicked_in_the_Head,Q2123396
+1296,Indian Summer (1996),http://dbpedia.org/resource/Indian_Summer,Q4489575
+1297,Love Affair (1994),http://dbpedia.org/resource/Love_Affair,Q7118983
+1298,"Band Wagon, The (1953)","http://dbpedia.org/resource/Band_Wagon,_The",Q1922976
+1299,Penny Serenade (1941),http://dbpedia.org/resource/Penny_Serenade,Q3708160
+1300,'Til There Was You (1997),http://dbpedia.org/resource/'Til_There_Was_You,Q888424
+1301,Stripes (1981),http://dbpedia.org/resource/Stripes,Q9237321
+1302,Late Bloomers (1996),http://dbpedia.org/resource/Late_Bloomers,Q532906
+1303,"Getaway, The (1994)","http://dbpedia.org/resource/Getaway,_The",Q2771013
+1304,New York Cop (1996),http://dbpedia.org/resource/New_York_Cop,Q988598
+1305,National Lampoon's Senior Trip (1995),http://dbpedia.org/resource/National_Lampoon's_Senior_Trip,Q3906848
+1306,Delta of Venus (1994),http://dbpedia.org/resource/Delta_of_Venus,Q2700138
+1307,Carmen Miranda: Bananas Is My Business (1994),http://dbpedia.org/resource/Carmen_Miranda:_Bananas_Is_My_Business,Q320624
+1308,Babyfever (1994),http://dbpedia.org/resource/Babyfever,Q8533850
+1309,"Very Natural Thing, A (1974)","http://dbpedia.org/resource/Very_Natural_Thing,_A",Q6596745
+1310,"Walk in the Sun, A (1945)","http://dbpedia.org/resource/Walk_in_the_Sun,_A",Q630693
+1311,Waiting to Exhale (1995),http://dbpedia.org/resource/Waiting_to_Exhale,Q9197833
+1312,"Pompatus of Love, The (1996)","http://dbpedia.org/resource/Pompatus_of_Love,_The",Q8876095
+1313,Palmetto (1998),http://dbpedia.org/resource/Palmetto,Q3756366
+1314,Surviving the Game (1994),http://dbpedia.org/resource/Surviving_the_Game,Q7551822
+1315,Inventing the Abbotts (1997),http://dbpedia.org/resource/Inventing_the_Abbotts,Q5285853
+1316,"Horse Whisperer, The (1998)","http://dbpedia.org/resource/Horse_Whisperer,_The",Q3744765
+1317,"Journey of August King, The (1995)","http://dbpedia.org/resource/Journey_of_August_King,_The",Q5043603
+1318,Catwalk (1995),http://dbpedia.org/resource/Catwalk,Q4973241
+1319,"Neon Bible, The (1995)","http://dbpedia.org/resource/Neon_Bible,_The",Q9309397
+1320,Homage (1995),http://dbpedia.org/resource/Homage,Q5223894
+1321,Open Season (1996),http://dbpedia.org/resource/Open_Season,Q7355050
+1322,Metisse (Café au Lait) (1993),http://dbpedia.org/resource/Metisse,Q4370759
+1323,"Wooden Man's Bride, The (Wu Kui) (1994)","http://dbpedia.org/resource/Wooden_Man's_Bride,_The",Q1345678
+1324,Loaded (1994),http://dbpedia.org/resource/Loaded,Q8636247
+1325,August (1996),http://dbpedia.org/resource/August,Q2610189
+1326,Boys (1996),http://dbpedia.org/resource/Boys,Q5095055
+1327,Captives (1994),http://dbpedia.org/resource/Captives,Q5196053
+1328,Of Love and Shadows (1994),http://dbpedia.org/resource/Of_Love_and_Shadows,Q5867797
+1329,"Low Life, The (1994)","http://dbpedia.org/resource/Low_Life,_The",Q5370217
+1330,An Unforgettable Summer (1994),http://dbpedia.org/resource/An_Unforgettable_Summer,Q9984952
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)","http://dbpedia.org/resource/Last_Klezmer:_Leopold_Kozlowski,_His_Life_and_Music,_The",Q3960992
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),http://dbpedia.org/resource/My_Life_and_Times_With_Antonin_Artaud,Q4470407
+1333,Midnight Dancers (Sibak) (1994),http://dbpedia.org/resource/Midnight_Dancers,Q692884
+1334,Somebody to Love (1994),http://dbpedia.org/resource/Somebody_to_Love,Q7255059
+1335,American Buffalo (1996),http://dbpedia.org/resource/American_Buffalo,Q9450272
+1336,Kazaam (1996),http://dbpedia.org/resource/Kazaam,Q3423922
+1337,Larger Than Life (1996),http://dbpedia.org/resource/Larger_Than_Life,Q4411749
+1338,Two Deaths (1995),http://dbpedia.org/resource/Two_Deaths,Q8574023
+1339,Stefano Quantestorie (1993),http://dbpedia.org/resource/Stefano_Quantestorie,Q2595625
+1340,"Crude Oasis, The (1995)","http://dbpedia.org/resource/Crude_Oasis,_The",Q4969486
+1341,Hedd Wyn (1992),http://dbpedia.org/resource/Hedd_Wyn,Q9775418
+1342,"Convent, The (Convento, O) (1995)","http://dbpedia.org/resource/Convent,_The",Q334637
+1343,Lotto Land (1995),http://dbpedia.org/resource/Lotto_Land,Q3784602
+1344,"Story of Xinghua, The (1993)","http://dbpedia.org/resource/Story_of_Xinghua,_The",Q6321003
+1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)","http://dbpedia.org/resource/Day_the_Sun_Turned_Cold,_The",Q9893849
+1346,Dingo (1992),http://dbpedia.org/resource/Dingo,Q208597
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)","http://dbpedia.org/resource/Ballad_of_Narayama,_The",Q1449152
+1348,Every Other Weekend (1990),http://dbpedia.org/resource/Every_Other_Weekend,Q449910
+1349,Mille bolle blu (1993),http://dbpedia.org/resource/Mille_bolle_blu,Q2627883
+1350,Crows and Sparrows (1949),http://dbpedia.org/resource/Crows_and_Sparrows,Q9538587
+1351,Lover's Knot (1996),http://dbpedia.org/resource/Lover's_Knot,Q5210409
+1352,Shadow of Angels (Schatten der Engel) (1976),http://dbpedia.org/resource/Shadow_of_Angels,Q2473752
+1353,1-900 (1994),http://dbpedia.org/resource/1-900,Q2815614
+1354,Venice/Venice (1992),http://dbpedia.org/resource/Venice/Venice,Q9903977
+1355,Infinity (1996),http://dbpedia.org/resource/Infinity,Q3650609
+1356,Ed's Next Move (1996),http://dbpedia.org/resource/Ed's_Next_Move,Q5689472
+1357,For the Moment (1994),http://dbpedia.org/resource/For_the_Moment,Q9666320
+1358,The Deadly Cure (1996),http://dbpedia.org/resource/The_Deadly_Cure,Q4732553
+1359,Boys in Venice (1996),http://dbpedia.org/resource/Boys_in_Venice,Q7802354
+1360,"Sexual Life of the Belgians, The (1994)","http://dbpedia.org/resource/Sexual_Life_of_the_Belgians,_The",Q1857857
+1361,"Search for One-eye Jimmy, The (1996)","http://dbpedia.org/resource/Search_for_One-eye_Jimmy,_The",Q8295047
+1362,American Strays (1996),http://dbpedia.org/resource/American_Strays,Q6522207
+1363,"Leopard Son, The (1996)","http://dbpedia.org/resource/Leopard_Son,_The",Q1702778
+1364,Bird of Prey (1996),http://dbpedia.org/resource/Bird_of_Prey,Q8468742
+1365,Johnny 100 Pesos (1993),http://dbpedia.org/resource/Johnny_100_Pesos,Q2962862
+1366,JLG/JLG - autoportrait de décembre (1994),http://dbpedia.org/resource/JLG/JLG_-_autoportrait_de_décembre,Q7907425
+1367,Faust (1994),http://dbpedia.org/resource/Faust,Q9849354
+1368,Mina Tannenbaum (1994),http://dbpedia.org/resource/Mina_Tannenbaum,Q1139393
+1369,"Forbidden Christ, The (Cristo proibito, Il) (1950)","http://dbpedia.org/resource/Forbidden_Christ,_The",Q7929450
+1370,I Can't Sleep (J'ai pas sommeil) (1994),http://dbpedia.org/resource/I_Can't_Sleep,Q1261354
+1371,"Machine, The (1994)","http://dbpedia.org/resource/Machine,_The",Q3949102
+1372,"Stranger, The (1994)","http://dbpedia.org/resource/Stranger,_The",Q2516403
+1373,Good Morning (1971),http://dbpedia.org/resource/Good_Morning,Q3733064
+1374,Falling in Love Again (1980),http://dbpedia.org/resource/Falling_in_Love_Again,Q7526234
+1375,"Cement Garden, The (1993)","http://dbpedia.org/resource/Cement_Garden,_The",Q2084471
+1376,Meet Wally Sparks (1997),http://dbpedia.org/resource/Meet_Wally_Sparks,Q7558388
+1377,Hotel de Love (1996),http://dbpedia.org/resource/Hotel_de_Love,Q9601838
+1378,Rhyme & Reason (1997),http://dbpedia.org/resource/Rhyme_&_Reason,Q3491115
+1379,Love and Other Catastrophes (1996),http://dbpedia.org/resource/Love_and_Other_Catastrophes,Q8145520
+1380,Hollow Reed (1996),http://dbpedia.org/resource/Hollow_Reed,Q2998315
+1381,Losing Chase (1996),http://dbpedia.org/resource/Losing_Chase,Q692085
+1382,"Bonheur, Le (1965)","http://dbpedia.org/resource/Bonheur,_Le",Q1250837
+1383,"Second Jungle Book: Mowgli & Baloo, The (1997)","http://dbpedia.org/resource/Second_Jungle_Book:_Mowgli_&_Baloo,_The",Q4212147
+1384,Squeeze (1996),http://dbpedia.org/resource/Squeeze,Q4155191
+1385,Roseanna's Grave (For Roseanna) (1997),http://dbpedia.org/resource/Roseanna's_Grave,Q5363394
+1386,Tetsuo II: Body Hammer (1992),http://dbpedia.org/resource/Tetsuo_II:_Body_Hammer,Q2469005
+1387,Fall (1997),http://dbpedia.org/resource/Fall,Q4515908
+1388,Gabbeh (1996),http://dbpedia.org/resource/Gabbeh,Q5496494
+1389,Mondo (1996),http://dbpedia.org/resource/Mondo,Q3093511
+1390,"Innocent Sleep, The (1995)","http://dbpedia.org/resource/Innocent_Sleep,_The",Q8552553
+1391,For Ever Mozart (1996),http://dbpedia.org/resource/For_Ever_Mozart,Q2855749
+1392,"Locusts, The (1997)","http://dbpedia.org/resource/Locusts,_The",Q7868085
+1393,Stag (1997),http://dbpedia.org/resource/Stag,Q7478610
+1394,Swept from the Sea (1997),http://dbpedia.org/resource/Swept_from_the_Sea,Q1953917
+1395,Hurricane Streets (1998),http://dbpedia.org/resource/Hurricane_Streets,Q3529590
+1396,Stonewall (1995),http://dbpedia.org/resource/Stonewall,Q5656818
+1397,Of Human Bondage (1934),http://dbpedia.org/resource/Of_Human_Bondage,Q1604951
+1398,Anna (1996),http://dbpedia.org/resource/Anna,Q7826385
+1399,Stranger in the House (1997),http://dbpedia.org/resource/Stranger_in_the_House,Q3384112
+1400,Picture Bride (1995),http://dbpedia.org/resource/Picture_Bride,Q9255802
+1401,M. Butterfly (1993),http://dbpedia.org/resource/M._Butterfly,Q2187947
+1402,"Ciao, Professore! (1993)","http://dbpedia.org/resource/Ciao,_Professore!",Q719477
+1403,Caro Diario (Dear Diary) (1994),http://dbpedia.org/resource/Caro_Diario,Q7896635
+1404,Withnail and I (1987),http://dbpedia.org/resource/Withnail_and_I,Q5028666
+1405,Boy's Life 2 (1997),http://dbpedia.org/resource/Boy's_Life_2,Q3405000
+1406,When Night Is Falling (1995),http://dbpedia.org/resource/When_Night_Is_Falling,Q9486638
+1407,"Specialist, The (1994)","http://dbpedia.org/resource/Specialist,_The",Q294862
+1408,Gordy (1995),http://dbpedia.org/resource/Gordy,Q2281362
+1409,"Swan Princess, The (1994)","http://dbpedia.org/resource/Swan_Princess,_The",Q4749201
+1410,Harlem (1993),http://dbpedia.org/resource/Harlem,Q8305670
+1411,Barbarella (1968),http://dbpedia.org/resource/Barbarella,Q8856153
+1412,Land Before Time III: The Time of the Great Giving (1995) (V),http://dbpedia.org/resource/Land_Before_Time_III:_The_Time_of_the_Great_Giving,Q121628
+1413,Street Fighter (1994),http://dbpedia.org/resource/Street_Fighter,Q3982740
+1414,Coldblooded (1995),http://dbpedia.org/resource/Coldblooded,Q8791725
+1415,"Next Karate Kid, The (1994)","http://dbpedia.org/resource/Next_Karate_Kid,_The",Q6593876
+1416,No Escape (1994),http://dbpedia.org/resource/No_Escape,Q1544830
+1417,"Turning, The (1992)","http://dbpedia.org/resource/Turning,_The",Q6487967
+1418,"Joy Luck Club, The (1993)","http://dbpedia.org/resource/Joy_Luck_Club,_The",Q4255613
+1419,Highlander III: The Sorcerer (1994),http://dbpedia.org/resource/Highlander_III:_The_Sorcerer,Q3576143
+1420,Gilligan's Island: The Movie (1998),http://dbpedia.org/resource/Gilligan's_Island:_The_Movie,Q716641
+1421,My Crazy Life (Mi vida loca) (1993),http://dbpedia.org/resource/My_Crazy_Life,Q9157367
+1422,Suture (1993),http://dbpedia.org/resource/Suture,Q8953161
+1423,"Walking Dead, The (1995)","http://dbpedia.org/resource/Walking_Dead,_The",Q9453200
+1424,I Like It Like That (1994),http://dbpedia.org/resource/I_Like_It_Like_That,Q8934571
+1425,I'll Do Anything (1994),http://dbpedia.org/resource/I'll_Do_Anything,Q9114527
+1426,Grace of My Heart (1996),http://dbpedia.org/resource/Grace_of_My_Heart,Q114342
+1427,Drunks (1995),http://dbpedia.org/resource/Drunks,Q4471077
+1428,SubUrbia (1997),http://dbpedia.org/resource/SubUrbia,Q8927672
+1429,Sliding Doors (1998),http://dbpedia.org/resource/Sliding_Doors,Q105605
+1430,Ill Gotten Gains (1997),http://dbpedia.org/resource/Ill_Gotten_Gains,Q328062
+1431,Legal Deceit (1997),http://dbpedia.org/resource/Legal_Deceit,Q6312507
+1432,"Mighty, The (1998)","http://dbpedia.org/resource/Mighty,_The",Q5498051
+1433,Men of Means (1998),http://dbpedia.org/resource/Men_of_Means,Q1396832
+1434,Shooting Fish (1997),http://dbpedia.org/resource/Shooting_Fish,Q2811185
+1435,"Steal Big, Steal Little (1995)","http://dbpedia.org/resource/Steal_Big,_Steal_Little",Q3925268
+1436,Mr. Jones (1993),http://dbpedia.org/resource/Mr._Jones,Q2026852
+1437,House Party 3 (1994),http://dbpedia.org/resource/House_Party_3,Q6363956
+1438,Panther (1995),http://dbpedia.org/resource/Panther,Q3113687
+1439,Jason's Lyric (1994),http://dbpedia.org/resource/Jason's_Lyric,Q7674535
+1440,Above the Rim (1994),http://dbpedia.org/resource/Above_the_Rim,Q5631250
+1441,Moonlight and Valentino (1995),http://dbpedia.org/resource/Moonlight_and_Valentino,Q246210
+1442,"Scarlet Letter, The (1995)","http://dbpedia.org/resource/Scarlet_Letter,_The",Q9594588
+1443,8 Seconds (1994),http://dbpedia.org/resource/8_Seconds,Q5897613
+1444,That Darn Cat! (1965),http://dbpedia.org/resource/That_Darn_Cat!,Q7815394
+1445,Ladybird Ladybird (1994),http://dbpedia.org/resource/Ladybird_Ladybird,Q3875861
+1446,"Bye Bye, Love (1995)","http://dbpedia.org/resource/Bye_Bye,_Love",Q8714230
+1447,Century (1993),http://dbpedia.org/resource/Century,Q1323514
+1448,My Favorite Season (1993),http://dbpedia.org/resource/My_Favorite_Season,Q3186360
+1449,Pather Panchali (1955),http://dbpedia.org/resource/Pather_Panchali,Q5259586
+1450,Golden Earrings (1947),http://dbpedia.org/resource/Golden_Earrings,Q1522188
+1451,Foreign Correspondent (1940),http://dbpedia.org/resource/Foreign_Correspondent,Q2724345
+1452,Lady of Burlesque (1943),http://dbpedia.org/resource/Lady_of_Burlesque,Q6253577
+1453,Angel on My Shoulder (1946),http://dbpedia.org/resource/Angel_on_My_Shoulder,Q9741599
+1454,Angel and the Badman (1947),http://dbpedia.org/resource/Angel_and_the_Badman,Q1083840
+1455,"Outlaw, The (1943)","http://dbpedia.org/resource/Outlaw,_The",Q6736651
+1456,Beat the Devil (1954),http://dbpedia.org/resource/Beat_the_Devil,Q2625005
+1457,Love Is All There Is (1996),http://dbpedia.org/resource/Love_Is_All_There_Is,Q637432
+1458,"Damsel in Distress, A (1937)","http://dbpedia.org/resource/Damsel_in_Distress,_A",Q1160898
+1459,Madame Butterfly (1995),http://dbpedia.org/resource/Madame_Butterfly,Q7082339
+1460,Sleepover (1995),http://dbpedia.org/resource/Sleepover,Q8757091
+1461,Here Comes Cookie (1935),http://dbpedia.org/resource/Here_Comes_Cookie,Q2316825
+1462,"Thieves (Voleurs, Les) (1996)",http://dbpedia.org/resource/Thieves,Q1016961
+1463,"Boys, Les (1997)","http://dbpedia.org/resource/Boys,_Les",Q8210205
+1464,"Stars Fell on Henrietta, The (1995)","http://dbpedia.org/resource/Stars_Fell_on_Henrietta,_The",Q295943
+1465,Last Summer in the Hamptons (1995),http://dbpedia.org/resource/Last_Summer_in_the_Hamptons,Q9390331
+1466,Margaret's Museum (1995),http://dbpedia.org/resource/Margaret's_Museum,Q9564380
+1467,"Saint of Fort Washington, The (1993)","http://dbpedia.org/resource/Saint_of_Fort_Washington,_The",Q8192210
+1468,"Cure, The (1995)","http://dbpedia.org/resource/Cure,_The",Q8217417
+1469,Tom and Huck (1995),http://dbpedia.org/resource/Tom_and_Huck,Q8099619
+1470,Gumby: The Movie (1995),http://dbpedia.org/resource/Gumby:_The_Movie,Q5293916
+1471,Hideaway (1995),http://dbpedia.org/resource/Hideaway,Q9996023
+1472,"Visitors, The (Visiteurs, Les) (1993)","http://dbpedia.org/resource/Visitors,_The",Q6882742
+1473,"Little Princess, The (1939)","http://dbpedia.org/resource/Little_Princess,_The",Q2335294
+1474,Nina Takes a Lover (1994),http://dbpedia.org/resource/Nina_Takes_a_Lover,Q8548600
+1475,Bhaji on the Beach (1993),http://dbpedia.org/resource/Bhaji_on_the_Beach,Q9378800
+1476,Raw Deal (1948),http://dbpedia.org/resource/Raw_Deal,Q1400493
+1477,Nightwatch (1997),http://dbpedia.org/resource/Nightwatch,Q489714
+1478,Dead Presidents (1995),http://dbpedia.org/resource/Dead_Presidents,Q2111075
+1479,Reckless (1995),http://dbpedia.org/resource/Reckless,Q7665287
+1480,Herbie Rides Again (1974),http://dbpedia.org/resource/Herbie_Rides_Again,Q7341777
+1481,S.F.W. (1994),http://dbpedia.org/resource/S.F.W.,Q189271
+1482,"Gate of Heavenly Peace, The (1995)","http://dbpedia.org/resource/Gate_of_Heavenly_Peace,_The",Q1460775
+1483,"Man in the Iron Mask, The (1998)","http://dbpedia.org/resource/Man_in_the_Iron_Mask,_The",Q1649965
+1484,"Jerky Boys, The (1994)","http://dbpedia.org/resource/Jerky_Boys,_The",Q1045246
+1485,"Colonel Chabert, Le (1994)","http://dbpedia.org/resource/Colonel_Chabert,_Le",Q7019206
+1486,Girl in the Cadillac (1995),http://dbpedia.org/resource/Girl_in_the_Cadillac,Q694890
+1487,Even Cowgirls Get the Blues (1993),http://dbpedia.org/resource/Even_Cowgirls_Get_the_Blues,Q1143906
+1488,Germinal (1993),http://dbpedia.org/resource/Germinal,Q3544101
+1489,Chasers (1994),http://dbpedia.org/resource/Chasers,Q4129391
+1490,Fausto (1993),http://dbpedia.org/resource/Fausto,Q1516913
+1491,Tough and Deadly (1995),http://dbpedia.org/resource/Tough_and_Deadly,Q1326762
+1492,Window to Paris (1994),http://dbpedia.org/resource/Window_to_Paris,Q7862617
+1493,"Modern Affair, A (1995)","http://dbpedia.org/resource/Modern_Affair,_A",Q4203183
+1494,"Mostro, Il (1994)","http://dbpedia.org/resource/Mostro,_Il",Q718194
+1495,Flirt (1995),http://dbpedia.org/resource/Flirt,Q5668381
+1496,Carpool (1996),http://dbpedia.org/resource/Carpool,Q6895260
+1497,"Line King: Al Hirschfeld, The (1996)","http://dbpedia.org/resource/Line_King:_Al_Hirschfeld,_The",Q5747363
+1498,Farmer & Chase (1995),http://dbpedia.org/resource/Farmer_&_Chase,Q2171163
+1499,Grosse Fatigue (1994),http://dbpedia.org/resource/Grosse_Fatigue,Q7803198
+1500,Santa with Muscles (1996),http://dbpedia.org/resource/Santa_with_Muscles,Q9422836
+1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),http://dbpedia.org/resource/Prisoner_of_the_Mountains,Q2496704
+1502,Naked in New York (1994),http://dbpedia.org/resource/Naked_in_New_York,Q3042880
+1503,Gold Diggers: The Secret of Bear Mountain (1995),http://dbpedia.org/resource/Gold_Diggers:_The_Secret_of_Bear_Mountain,Q8020263
+1504,"Bewegte Mann, Der (1994)","http://dbpedia.org/resource/Bewegte_Mann,_Der",Q6410676
+1505,Killer: A Journal of Murder (1995),http://dbpedia.org/resource/Killer:_A_Journal_of_Murder,Q3047720
+1506,Nelly & Monsieur Arnaud (1995),http://dbpedia.org/resource/Nelly_&_Monsieur_Arnaud,Q9505035
+1507,Three Lives and Only One Death (1996),http://dbpedia.org/resource/Three_Lives_and_Only_One_Death,Q1203731
+1508,"Babysitter, The (1995)","http://dbpedia.org/resource/Babysitter,_The",Q3498610
+1509,Getting Even with Dad (1994),http://dbpedia.org/resource/Getting_Even_with_Dad,Q7461025
+1510,Mad Dog Time (1996),http://dbpedia.org/resource/Mad_Dog_Time,Q4169766
+1511,Children of the Revolution (1996),http://dbpedia.org/resource/Children_of_the_Revolution,Q4349091
+1512,"World of Apu, The (Apur Sansar) (1959)","http://dbpedia.org/resource/World_of_Apu,_The",Q5031273
+1513,Sprung (1997),http://dbpedia.org/resource/Sprung,Q7667895
+1514,Dream With the Fishes (1997),http://dbpedia.org/resource/Dream_With_the_Fishes,Q9682970
+1515,Wings of Courage (1995),http://dbpedia.org/resource/Wings_of_Courage,Q3288407
+1516,"Wedding Gift, The (1994)","http://dbpedia.org/resource/Wedding_Gift,_The",Q8105494
+1517,Race the Sun (1996),http://dbpedia.org/resource/Race_the_Sun,Q3816758
+1518,Losing Isaiah (1995),http://dbpedia.org/resource/Losing_Isaiah,Q473282
+1519,New Jersey Drive (1995),http://dbpedia.org/resource/New_Jersey_Drive,Q7007007
+1520,"Fear, The (1995)","http://dbpedia.org/resource/Fear,_The",Q205520
+1521,Mr. Wonderful (1993),http://dbpedia.org/resource/Mr._Wonderful,Q9032190
+1522,Trial by Jury (1994),http://dbpedia.org/resource/Trial_by_Jury,Q9998468
+1523,"Good Man in Africa, A (1994)","http://dbpedia.org/resource/Good_Man_in_Africa,_A",Q2152377
+1524,Kaspar Hauser (1993),http://dbpedia.org/resource/Kaspar_Hauser,Q9441442
+1525,"Object of My Affection, The (1998)","http://dbpedia.org/resource/Object_of_My_Affection,_The",Q6100910
+1526,Witness (1985),http://dbpedia.org/resource/Witness,Q5198695
+1527,Senseless (1998),http://dbpedia.org/resource/Senseless,Q6170109
+1528,Nowhere (1997),http://dbpedia.org/resource/Nowhere,Q2857496
+1529,Underground (1995),http://dbpedia.org/resource/Underground,Q2369621
+1530,Jefferson in Paris (1995),http://dbpedia.org/resource/Jefferson_in_Paris,Q2842790
+1531,Far From Home: The Adventures of Yellow Dog (1995),http://dbpedia.org/resource/Far_From_Home:_The_Adventures_of_Yellow_Dog,Q72803
+1532,Foreign Student (1994),http://dbpedia.org/resource/Foreign_Student,Q7038120
+1533,I Don't Want to Talk About It (De eso no se habla) (1993),http://dbpedia.org/resource/I_Don't_Want_to_Talk_About_It,Q5299277
+1534,Twin Town (1997),http://dbpedia.org/resource/Twin_Town,Q1294864
+1535,"Enfer, L' (1994)","http://dbpedia.org/resource/Enfer,_L'",Q555232
+1536,Aiqing wansui (1994),http://dbpedia.org/resource/Aiqing_wansui,Q8141405
+1537,Cosi (1996),http://dbpedia.org/resource/Cosi,Q249620
+1538,All Over Me (1997),http://dbpedia.org/resource/All_Over_Me,Q1338884
+1539,Being Human (1993),http://dbpedia.org/resource/Being_Human,Q1099325
+1540,"Amazing Panda Adventure, The (1995)","http://dbpedia.org/resource/Amazing_Panda_Adventure,_The",Q1346565
+1541,"Beans of Egypt, Maine, The (1994)","http://dbpedia.org/resource/Beans_of_Egypt,_Maine,_The",Q2649073
+1542,"Scarlet Letter, The (1926)","http://dbpedia.org/resource/Scarlet_Letter,_The",Q9594588
+1543,Johns (1996),http://dbpedia.org/resource/Johns,Q3016397
+1544,It Takes Two (1995),http://dbpedia.org/resource/It_Takes_Two,Q5782714
+1545,Frankie Starlight (1995),http://dbpedia.org/resource/Frankie_Starlight,Q9956242
+1546,Shadows (Cienie) (1988),http://dbpedia.org/resource/Shadows,Q4907317
+1547,"Show, The (1995)","http://dbpedia.org/resource/Show,_The",Q770649
+1548,The Courtyard (1995),http://dbpedia.org/resource/The_Courtyard,Q7397287
+1549,Dream Man (1995),http://dbpedia.org/resource/Dream_Man,Q8204551
+1550,Destiny Turns on the Radio (1995),http://dbpedia.org/resource/Destiny_Turns_on_the_Radio,Q7412803
+1551,"Glass Shield, The (1994)","http://dbpedia.org/resource/Glass_Shield,_The",Q8729625
+1552,"Hunted, The (1995)","http://dbpedia.org/resource/Hunted,_The",Q3148088
+1553,"Underneath, The (1995)","http://dbpedia.org/resource/Underneath,_The",Q6649502
+1554,Safe Passage (1994),http://dbpedia.org/resource/Safe_Passage,Q531793
+1555,"Secret Adventures of Tom Thumb, The (1993)","http://dbpedia.org/resource/Secret_Adventures_of_Tom_Thumb,_The",Q222706
+1556,Condition Red (1995),http://dbpedia.org/resource/Condition_Red,Q1128798
+1557,Yankee Zulu (1994),http://dbpedia.org/resource/Yankee_Zulu,Q6948747
+1558,Aparajito (1956),http://dbpedia.org/resource/Aparajito,Q4696009
+1559,Hostile Intentions (1994),http://dbpedia.org/resource/Hostile_Intentions,Q4956529
+1560,Clean Slate (Coup de Torchon) (1981),http://dbpedia.org/resource/Clean_Slate,Q7797630
+1561,Tigrero: A Film That Was Never Made (1994),http://dbpedia.org/resource/Tigrero:_A_Film_That_Was_Never_Made,Q3065873
+1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)","http://dbpedia.org/resource/Eye_of_Vichy,_The",Q9893917
+1563,"Promise, The (Versprechen, Das) (1994)","http://dbpedia.org/resource/Promise,_The",Q5295066
+1564,To Cross the Rubicon (1991),http://dbpedia.org/resource/To_Cross_the_Rubicon,Q866907
+1565,Daens (1992),http://dbpedia.org/resource/Daens,Q3569910
+1566,"Man from Down Under, The (1943)","http://dbpedia.org/resource/Man_from_Down_Under,_The",Q5384493
+1567,Careful (1992),http://dbpedia.org/resource/Careful,Q5993920
+1568,Vermont Is For Lovers (1992),http://dbpedia.org/resource/Vermont_Is_For_Lovers,Q9633142
+1569,"Vie est belle, La (Life is Rosey) (1987)","http://dbpedia.org/resource/Vie_est_belle,_La",Q1900983
+1570,Quartier Mozart (1992),http://dbpedia.org/resource/Quartier_Mozart,Q6747147
+1571,Touki Bouki (Journey of the Hyena) (1973),http://dbpedia.org/resource/Touki_Bouki,Q3356599
+1572,Wend Kuuni (God's Gift) (1982),http://dbpedia.org/resource/Wend_Kuuni,Q9412941
+1573,Spirits of the Dead (Tre passi nel delirio) (1968),http://dbpedia.org/resource/Spirits_of_the_Dead,Q5751207
+1574,Pharaoh's Army (1995),http://dbpedia.org/resource/Pharaoh's_Army,Q5401581
+1575,"I, Worst of All (Yo, la peor de todas) (1990)","http://dbpedia.org/resource/I,_Worst_of_All",Q1819332
+1576,"Hungarian Fairy Tale, A (1987)","http://dbpedia.org/resource/Hungarian_Fairy_Tale,_A",Q6949952
+1577,"Death in the Garden (Mort en ce jardin, La) (1956)",http://dbpedia.org/resource/Death_in_the_Garden,Q6475875
+1578,"Collectionneuse, La (1967)","http://dbpedia.org/resource/Collectionneuse,_La",Q2052285
+1579,Baton Rouge (1988),http://dbpedia.org/resource/Baton_Rouge,Q4646467
+1580,Liebelei (1933),http://dbpedia.org/resource/Liebelei,Q4254329
+1581,"Woman in Question, The (1950)","http://dbpedia.org/resource/Woman_in_Question,_The",Q2406880
+1582,T-Men (1947),http://dbpedia.org/resource/T-Men,Q4593136
+1583,"Invitation, The (Zaproszenie) (1986)","http://dbpedia.org/resource/Invitation,_The",Q3010895
+1584,"Symphonie pastorale, La (1946)","http://dbpedia.org/resource/Symphonie_pastorale,_La",Q8928825
+1585,American Dream (1990),http://dbpedia.org/resource/American_Dream,Q136925
+1586,Lashou shentan (1992),http://dbpedia.org/resource/Lashou_shentan,Q7944716
+1587,Terror in a Texas Town (1958),http://dbpedia.org/resource/Terror_in_a_Texas_Town,Q204410
+1588,Salut cousin! (1996),http://dbpedia.org/resource/Salut_cousin!,Q4604743
+1589,Schizopolis (1996),http://dbpedia.org/resource/Schizopolis,Q7182762
+1590,"To Have, or Not (1995)","http://dbpedia.org/resource/To_Have,_or_Not",Q6719472
+1591,Duoluo tianshi (1995),http://dbpedia.org/resource/Duoluo_tianshi,Q9741888
+1592,"Magic Hour, The (1998)","http://dbpedia.org/resource/Magic_Hour,_The",Q6100085
+1593,Death in Brunswick (1991),http://dbpedia.org/resource/Death_in_Brunswick,Q7124756
+1594,Everest (1998),http://dbpedia.org/resource/Everest,Q1681721
+1595,Shopping (1994),http://dbpedia.org/resource/Shopping,Q7259866
+1596,Nemesis 2: Nebula (1995),http://dbpedia.org/resource/Nemesis_2:_Nebula,Q2067771
+1597,Romper Stomper (1992),http://dbpedia.org/resource/Romper_Stomper,Q9095264
+1598,City of Industry (1997),http://dbpedia.org/resource/City_of_Industry,Q4615513
+1599,Someone Else's America (1995),http://dbpedia.org/resource/Someone_Else's_America,Q3916373
+1600,Guantanamera (1994),http://dbpedia.org/resource/Guantanamera,Q8315175
+1601,Office Killer (1997),http://dbpedia.org/resource/Office_Killer,Q7384232
+1602,"Price Above Rubies, A (1998)","http://dbpedia.org/resource/Price_Above_Rubies,_A",Q1677180
+1603,Angela (1995),http://dbpedia.org/resource/Angela,Q9537487
+1604,He Walked by Night (1948),http://dbpedia.org/resource/He_Walked_by_Night,Q4212896
+1605,Love Serenade (1996),http://dbpedia.org/resource/Love_Serenade,Q6068206
+1606,Deceiver (1997),http://dbpedia.org/resource/Deceiver,Q6294525
+1607,Hurricane Streets (1998),http://dbpedia.org/resource/Hurricane_Streets,Q3529590
+1608,Buddy (1997),http://dbpedia.org/resource/Buddy,Q8831594
+1609,B*A*P*S (1997),http://dbpedia.org/resource/B*A*P*S,Q4029840
+1610,"Truth or Consequences, N.M. (1997)","http://dbpedia.org/resource/Truth_or_Consequences,_N.M.",Q7400491
+1611,Intimate Relations (1996),http://dbpedia.org/resource/Intimate_Relations,Q139648
+1612,"Leading Man, The (1996)","http://dbpedia.org/resource/Leading_Man,_The",Q9190781
+1613,Tokyo Fist (1995),http://dbpedia.org/resource/Tokyo_Fist,Q6140646
+1614,"Reluctant Debutante, The (1958)","http://dbpedia.org/resource/Reluctant_Debutante,_The",Q3057141
+1615,Warriors of Virtue (1997),http://dbpedia.org/resource/Warriors_of_Virtue,Q7512729
+1616,Desert Winds (1995),http://dbpedia.org/resource/Desert_Winds,Q9403387
+1617,Hugo Pool (1997),http://dbpedia.org/resource/Hugo_Pool,Q3457089
+1618,King of New York (1990),http://dbpedia.org/resource/King_of_New_York,Q6375841
+1619,All Things Fair (1996),http://dbpedia.org/resource/All_Things_Fair,Q5782376
+1620,"Sixth Man, The (1997)","http://dbpedia.org/resource/Sixth_Man,_The",Q5381232
+1621,Butterfly Kiss (1995),http://dbpedia.org/resource/Butterfly_Kiss,Q9042484
+1622,"Paris, France (1993)","http://dbpedia.org/resource/Paris,_France",Q725908
+1623,"Cérémonie, La (1995)","http://dbpedia.org/resource/Cérémonie,_La",Q641465
+1624,Hush (1998),http://dbpedia.org/resource/Hush,Q3411821
+1625,Nightwatch (1997),http://dbpedia.org/resource/Nightwatch,Q489714
+1626,Nobody Loves Me (Keiner liebt mich) (1994),http://dbpedia.org/resource/Nobody_Loves_Me,Q1853250
+1627,"Wife, The (1995)","http://dbpedia.org/resource/Wife,_The",Q9024756
+1628,Lamerica (1994),http://dbpedia.org/resource/Lamerica,Q5316504
+1629,Nico Icon (1995),http://dbpedia.org/resource/Nico_Icon,Q2871929
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)","http://dbpedia.org/resource/Silence_of_the_Palace,_The",Q1649526
+1631,"Slingshot, The (1993)","http://dbpedia.org/resource/Slingshot,_The",Q6106067
+1632,Land and Freedom (Tierra y libertad) (1995),http://dbpedia.org/resource/Land_and_Freedom,Q9799614
+1633,Á köldum klaka (Cold Fever) (1994),http://dbpedia.org/resource/Á_köldum_klaka,Q1762538
+1634,Etz Hadomim Tafus (Under the Domin Tree) (1994),http://dbpedia.org/resource/Etz_Hadomim_Tafus,Q6514017
+1635,Two Friends (1986) ,http://dbpedia.org/resource/Two_Friends,Q3385694
+1636,Brothers in Trouble (1995),http://dbpedia.org/resource/Brothers_in_Trouble,Q5276130
+1637,Girls Town (1996),http://dbpedia.org/resource/Girls_Town,Q2871451
+1638,Normal Life (1996),http://dbpedia.org/resource/Normal_Life,Q5898096
+1639,Bitter Sugar (Azucar Amargo) (1996),http://dbpedia.org/resource/Bitter_Sugar,Q2957661
+1640,"Eighth Day, The (1996)","http://dbpedia.org/resource/Eighth_Day,_The",Q936178
+1641,Dadetown (1995),http://dbpedia.org/resource/Dadetown,Q9164458
+1642,Some Mother's Son (1996),http://dbpedia.org/resource/Some_Mother's_Son,Q8098048
+1643,Angel Baby (1995),http://dbpedia.org/resource/Angel_Baby,Q5205520
+1644,Sudden Manhattan (1996),http://dbpedia.org/resource/Sudden_Manhattan,Q9913561
+1645,"Butcher Boy, The (1998)","http://dbpedia.org/resource/Butcher_Boy,_The",Q1795510
+1646,Men With Guns (1997),http://dbpedia.org/resource/Men_With_Guns,Q8692089
+1647,Hana-bi (1997),http://dbpedia.org/resource/Hana-bi,Q1055468
+1648,"Niagara, Niagara (1997)","http://dbpedia.org/resource/Niagara,_Niagara",Q9994724
+1649,"Big One, The (1997)","http://dbpedia.org/resource/Big_One,_The",Q3333023
+1650,"Butcher Boy, The (1998)","http://dbpedia.org/resource/Butcher_Boy,_The",Q1795510
+1651,"Spanish Prisoner, The (1997)","http://dbpedia.org/resource/Spanish_Prisoner,_The",Q646416
+1652,Temptress Moon (Feng Yue) (1996),http://dbpedia.org/resource/Temptress_Moon,Q1260952
+1653,Entertaining Angels: The Dorothy Day Story (1996),http://dbpedia.org/resource/Entertaining_Angels:_The_Dorothy_Day_Story,Q5148679
+1654,Chairman of the Board (1998),http://dbpedia.org/resource/Chairman_of_the_Board,Q4194675
+1655,"Favor, The (1994)","http://dbpedia.org/resource/Favor,_The",Q3261172
+1656,Little City (1998),http://dbpedia.org/resource/Little_City,Q3537099
+1657,Target (1995),http://dbpedia.org/resource/Target,Q9173684
+1658,"Substance of Fire, The (1996)","http://dbpedia.org/resource/Substance_of_Fire,_The",Q5085990
+1659,Getting Away With Murder (1996),http://dbpedia.org/resource/Getting_Away_With_Murder,Q1900130
+1660,Small Faces (1995),http://dbpedia.org/resource/Small_Faces,Q5009147
+1661,"New Age, The (1994)","http://dbpedia.org/resource/New_Age,_The",Q9128408
+1662,Rough Magic (1995),http://dbpedia.org/resource/Rough_Magic,Q3623836
+1663,Nothing Personal (1995),http://dbpedia.org/resource/Nothing_Personal,Q7974531
+1664,8 Heads in a Duffel Bag (1997),http://dbpedia.org/resource/8_Heads_in_a_Duffel_Bag,Q7336050
+1665,"Brother's Kiss, A (1997)","http://dbpedia.org/resource/Brother's_Kiss,_A",Q1486259
+1666,Ripe (1996),http://dbpedia.org/resource/Ripe,Q6985865
+1667,"Next Step, The (1995)","http://dbpedia.org/resource/Next_Step,_The",Q5889863
+1668,Wedding Bell Blues (1996),http://dbpedia.org/resource/Wedding_Bell_Blues,Q32536
+1669,MURDER and murder (1996),http://dbpedia.org/resource/MURDER_and_murder,Q5254989
+1670,Tainted (1998),http://dbpedia.org/resource/Tainted,Q1184347
+1671,"Further Gesture, A (1996)","http://dbpedia.org/resource/Further_Gesture,_A",Q4834821
+1672,Kika (1993),http://dbpedia.org/resource/Kika,Q5521155
+1673,Mirage (1995),http://dbpedia.org/resource/Mirage,Q6295758
+1674,Mamma Roma (1962),http://dbpedia.org/resource/Mamma_Roma,Q8897649
+1675,"Sunchaser, The (1996)","http://dbpedia.org/resource/Sunchaser,_The",Q111400
+1676,"War at Home, The (1996)","http://dbpedia.org/resource/War_at_Home,_The",Q4565644
+1677,Sweet Nothing (1995),http://dbpedia.org/resource/Sweet_Nothing,Q1978204
+1678,Mat' i syn (1997),http://dbpedia.org/resource/Mat'_i_syn,Q2268251
+1679,B. Monkey (1998),http://dbpedia.org/resource/B._Monkey,Q9374815
+1680,Sliding Doors (1998),http://dbpedia.org/resource/Sliding_Doors,Q105605
+1681,You So Crazy (1994),http://dbpedia.org/resource/You_So_Crazy,Q3374490
+1682,Scream of Stone (Schrei aus Stein) (1991),http://dbpedia.org/resource/Scream_of_Stone,Q582377
