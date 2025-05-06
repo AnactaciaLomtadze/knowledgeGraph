@@ -1,0 +1,40 @@
+{
+    "configuration": {
+        "data_path": "data/ml-100k",
+        "output_dir": "./results",
+        "num_users": 50,
+        "temporal_split": false,
+        "test_days": 30,
+        "seed": 42
+    },
+    "experiments": {
+        "baseline_comparison": {
+            "completed": true,
+            "duration": 328.57561349868774
+        },
+        "improved_baseline_comparison": {
+            "completed": true,
+            "duration": 248.20406246185303
+        },
+        "temporal_evaluation": {
+            "completed": true,
+            "duration": 32.36048746109009
+        },
+        "parameter_sensitivity": {
+            "completed": true,
+            "duration": 211.4870948791504
+        },
+        "privacy_impact": {
+            "completed": true,
+            "duration": 64.03874230384827
+        },
+        "scalability_test": {
+            "completed": true,
+            "duration": 390.17983078956604
+        },
+        "user_segmentation": {
+            "completed": true,
+            "duration": 194.56694984436035
+        }
+    }
+}

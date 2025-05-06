@@ -1,0 +1,284 @@
+# MovieLens Knowledge Graph with Forgetting Mechanisms
+
+This project implements a recommendation system that simulates human-like forgetting mechanisms using the MovieLens 100k dataset enriched with knowledge from external sources. The system aims to provide more dynamic and temporally-aware recommendations.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Key Components](#key-components)
+- [Forgetting Mechanisms](#forgetting-mechanisms)
+- [Recent Improvements](#recent-improvements)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Results and Comparison](#results-and-comparison)
+- [Additional Scripts](#additional-scripts)
+- [Experimental Results](#experimental-results)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+Traditional recommendation systems typically maintain a static representation of user preferences. In reality, human memory evolves over time - we forget older interactions and preferences while giving more importance to recent ones. This project implements various forgetting mechanisms to simulate this temporal evolution of memory, resulting in more dynamic and context-aware recommendations.
+
+The `build_enhanced_kg.py` script creates an enriched knowledge graph by:
+1. Loading the basic MovieLens dataset
+2. Adding external knowledge about movies, directors, actors, and awards
+3. Building a comprehensive knowledge graph with these relationships
+4. Saving the enhanced graph for use in recommendation algorithms
+
+This enhanced graph enables more sophisticated recommendation strategies, especially those using context-aware forgetting mechanisms that dynamically adapt to user preferences and item significance.
+
+## Features
+
+- **Knowledge Graph Construction**: Creates a graph-based representation of movies, users, actors, directors, and genres
+- **External Knowledge Integration**: Enriches MovieLens data with metadata from DBpedia/Wikidata
+- **Multiple Forgetting Mechanisms**: Implements various algorithms to simulate human-like forgetting
+- **Context-Aware Forgetting**: Preserves memory of significant items (e.g., award-winning movies) longer
+- **Personalized Decay Parameters**: Adapts forgetting rates based on user activity patterns
+- **Comprehensive Evaluation**: Assesses both accuracy and beyond-accuracy metrics
+
+## Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/movielens-forgetting-recommendations.git
+cd movielens-forgetting-recommendations
+```
+
+2. Install required dependencies:
+```bash
+pip install numpy pandas networkx scikit-learn matplotlib seaborn tqdm SPARQLWrapper
+```
+
+3. Download the MovieLens 100k dataset:
+```bash
+mkdir -p data/ml-100k
+wget https://files.grouplens.org/datasets/movielens/ml-100k.zip -O data/ml-100k.zip
+unzip data/ml-100k.zip -d data/
+```
+
+## Usage
+
+The system is designed to be run in three sequential steps:
+
+1. **Build External Knowledge**:
+```bash
+python scripts/build_external_knowledge.py
+```
+This will link MovieLens movies to external knowledge sources and fetch additional metadata.
+
+2. **Build Enhanced Knowledge Graph**:
+```bash
+python scripts/build_enhanced_kg.py
+```
+This will construct a knowledge graph integrating the MovieLens data with external knowledge.
+
+3. **Compare Forgetting Strategies**:
+```bash
+python scripts/compare_forgetting.py
+```
+This will evaluate different forgetting mechanisms and produce comparison results.
+
+Alternatively, you can run all steps at once:
+```bash
+python scripts/run_experiments.py --all
+```
+
+### Step-by-Step Execution
+
+1. **Load MovieLens dataset** - Basic user-movie-rating data
+2. **Load external knowledge** - Add information from DBpedia/Wikidata
+3. **Build enhanced knowledge graph** - Integrate all data into a unified graph
+4. **Save to disk** - Persist the graph for recommendation algorithms
+5. **Display statistics** - Show information about the graph structure
+
+## Project Structure
+
+```
+├── data/
+│   ├── ml-100k/               # MovieLens dataset
+│   └── external_data/         # Generated external knowledge files
+├── results/                   # Evaluation results
+├── scripts/
+│   ├── run_experiments.py     # Main script to run all experiments
+│   ├── build_external_knowledge.py
+│   ├── build_enhanced_kg.py
+│   └── compare_forgetting.py
+└── src/
+    ├── knowledge_graph.py     # Core knowledge graph implementation
+    ├── external_knowledge.py  # External knowledge integration
+    ├── forgetting_mechanism.py # Basic forgetting mechanisms
+    ├── context_forgetting.py  # Context-aware forgetting mechanisms
+    ├── evaluation_metrics.py  # Metrics for evaluation
+    └── visualization_tool.py  # Visualization utilities
+```
+
+## Key Components
+
+- **MovieLens dataset**: Basic user-movie interactions and ratings
+- **External knowledge**: Information about movies, directors, actors, awards
+- **Knowledge graph**: A graph-based representation with multiple node and edge types
+- **Forgetting mechanisms**: Various algorithms to simulate memory decay over time
+
+## Output Structure
+
+The enhanced knowledge graph includes:
+
+- **User nodes**: Represent users with demographic information
+- **Movie nodes**: Represent movies with titles, genres and external IDs
+- **Person nodes**: Directors and actors with names and links to their works
+- **Award nodes**: Prestigious awards received by the movies
+- **Relationship edges**: Various types (acted_in, directed_by, received_award, etc.)
+
+## Forgetting Mechanisms
+
+The project implements several forgetting approaches:
+
+1. **Time-based Decay**: Memory strength decays exponentially over time
+2. **Usage-based Decay**: Less frequently accessed items decay faster
+3. **Ebbinghaus Forgetting Curve**: Classic model of human memory decay
+4. **Power-Law Decay**: Models long-term forgetting patterns
+5. **Hybrid Approaches**: Combine multiple factors (time, usage, novelty)
+6. **Context-aware Forgetting**: Preserves significant items (award-winning movies, etc.) longer
+
+## Recent Improvements
+
+The project has been enhanced with several new features:
+
+### Advanced Forgetting Mechanisms
+- **Improved Two-Phase Decay**: Implements a more realistic forgetting curve with separate short-term and long-term components
+- **Adaptive Time Decay**: Automatically adjusts decay rates based on user activity patterns
+- **Parameter Optimization**: Uses Bayesian optimization to find optimal forgetting parameters
+
+### Enhanced Recommendation Algorithms
+- **Improved Hybrid Recommendations**: Better balances content similarity, popularity, and novelty factors
+- **Knowledge-Enhanced Recommendations**: Leverages additional metadata like awards and director reputation
+- **Segment-Adaptive Recommendations**: Changes recommendation strategy based on user segments (active/casual, diverse/focused taste)
+
+### Recommendation Balancing
+- **Improved Memory-Recommendation Integration**: More sophisticated approach to balance familiar items (high memory strength) with novel items (low memory strength)
+- **Context-Aware Forgetting**: Preserves memories of significant items longer while allowing less important ones to fade
+
+## Evaluation Metrics
+
+The system evaluates recommendations using both accuracy and beyond-accuracy metrics:
+
+### Accuracy Metrics
+- **Hit Rate**: Whether relevant items appear in top-K recommendations
+- **Precision**: Proportion of recommended items that are relevant
+- **NDCG**: Measures relevance and position of recommendations
+- **MRR**: Mean reciprocal rank of first relevant item
+
+### Beyond-Accuracy Metrics
+- **Diversity**: How different recommended items are from each other
+- **Novelty**: How unusual or lesser-known the recommended items are
+- **Serendipity**: How surprising yet relevant recommendations are
+
+## Results and Comparison
+
+### Example Output
+
+```
+Loading MovieLens dataset...
+Loading external knowledge...
+Building enhanced knowledge graph...
+Saving enhanced knowledge graph to ./data/external_data/enhanced_knowledge_graph.gpickle
+
+Knowledge Graph Statistics:
+Number of nodes: 2625
+Number of edges: 100836
+
+Node types:
+  - actor: 237
+  - award: 42
+  - director: 103
+  - movie: 1682
+  - user: 943
+  - unknown: 18
+
+Edge types:
+  - acted_in: 558
+  - directed_by: 226
+  - received_award: 87
+  - similar: 16293
+  - unknown: 83672
+
+Enhanced knowledge graph construction complete!
+```
+
+### Comparison of Recommendation Strategies
+
+The enhanced knowledge graph enables various sophisticated recommendation strategies:
+
+| Strategy | Description | Strengths |
+|----------|-------------|-----------|
+| Basic Hybrid | Combines content-based and graph-based approaches | Good balance of accuracy metrics |
+| Context-Aware Hybrid | Considers item significance in forgetting | Preserves important memories longer |
+| Knowledge-Enhanced | Leverages award and director information | Better quality recommendations |
+| Segment-Adaptive | Changes strategy based on user segment | Tailored to user behavior patterns |
+| Parameter-Optimized | Uses Bayesian optimization for parameters | Best overall performance metrics |
+
+Our experiments show that context-aware forgetting mechanisms consistently outperform traditional approaches, especially for beyond-accuracy metrics like diversity, novelty, and serendipity.
+
+### Key Findings
+
+- Basic time-based decay provides a simple but effective way to improve recommendation novelty
+- Context-aware mechanisms preserve important memories while allowing less significant ones to fade
+- Personalized forgetting parameters adapt well to different user behavior patterns
+- Hybrid approaches achieve the best balance across all evaluation metrics
+
+Detailed results are saved in the `results/` directory after running the comparison script.
+
+## Additional Scripts
+
+### build_external_knowledge.py
+
+Links MovieLens movies to external knowledge sources like DBpedia and Wikidata, fetching enriched information about movies, actors, directors, and awards.
+
+```bash
+python scripts/build_external_knowledge.py
+```
+
+### run_experiments.py
+
+A master script to run the entire pipeline from data preparation to evaluation:
+
+```bash
+# Run everything
+python scripts/run_experiments.py --all
+
+# Or run specific steps
+python scripts/run_experiments.py --external  # Just build external knowledge
+python scripts/run_experiments.py --graph     # Just build enhanced graph
+python scripts/run_experiments.py --compare   # Just compare forgetting strategies
+```
+
+## Experimental Results
+
+You can run the following experiments to test different aspects of the system:
+
+```bash
+# Run basic comparison of traditional vs forgetting-based recommendations
+python scripts/run_experiments.py --compare
+
+# Run comparison with improved algorithms
+python -c "from src.experiment_runner import ForgettingExperimentRunner; \
+           from src.forgetting_config import ForgettingConfig; \
+           runner = ForgettingExperimentRunner(ForgettingConfig()); \
+           runner.run_improved_baseline_comparison()"
+
+# Run parameter optimization to find optimal forgetting parameters
+python -c "from src.experiment_runner import ForgettingExperimentRunner; \
+           from src.forgetting_config import ForgettingConfig; \
+           runner = ForgettingExperimentRunner(ForgettingConfig()); \
+           runner.run_parameter_optimization()"
+```
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
